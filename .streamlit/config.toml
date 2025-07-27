@@ -1,0 +1,42 @@
+[theme]
+
+base="light"
+
+primaryColor= "#FF6C00"       
+
+backgroundColor="#FFFFFF"     
+
+secondaryBackgroundColor="#FBF6F2"
+
+textColor="#505050"          
+
+font="sans serif"
+
+baseRadius="2rem"        
+
+borderColor= "#FFA366"   
+
+showSidebarBorder = true
+
+chartCategoricalColors = [
+						  "#F38BA0", #redLight
+						  "#CD5656", #redDark
+						  "#9EC6F3",#Blue
+						  "#D4F6FF",#SkyBlue
+						  "#CCD5AE",#Green
+						  "#FAEDCE",#Lime
+						  "#FFF9BD",#yellow
+						  "#FFB38E",#orange
+						  "#C0C9EE",#Purple
+						  "#898AC4",#darkPurple
+						  "#98A1BC", #stone grey
+						  "#A7C1A8", #matcha green
+						  "#FADA7A", #Honey yellow
+						  "#88AB8E", #Camo green
+						  ]
+
+showWidgetBorder = true
+
+[server]
+
+runOnSave = true

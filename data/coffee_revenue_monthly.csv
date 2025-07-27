@@ -1,0 +1,1434 @@
+,store_id,month,product_id,product_detail,product_category,revenue
+0,3,1.0,73,Almond Croissant,Bakery,258.75
+1,5,1.0,73,Almond Croissant,Bakery,270.0
+2,8,1.0,73,Almond Croissant,Bakery,281.25
+3,3,1.0,1,Brazilian - Organic,Coffee beans,54.0
+4,5,1.0,1,Brazilian - Organic,Coffee beans,252.0
+5,8,1.0,1,Brazilian - Organic,Coffee beans,54.0
+6,3,1.0,27,Brazilian Lg,Coffee,616.0
+7,5,1.0,27,Brazilian Lg,Coffee,626.5
+8,8,1.0,27,Brazilian Lg,Coffee,686.0
+9,3,1.0,26,Brazilian Rg,Coffee,537.0
+10,5,1.0,26,Brazilian Rg,Coffee,459.0
+11,8,1.0,26,Brazilian Rg,Coffee,534.0
+12,3,1.0,25,Brazilian Sm,Coffee,385.0
+13,5,1.0,25,Brazilian Sm,Coffee,360.8
+14,8,1.0,25,Brazilian Sm,Coffee,404.8
+15,3,1.0,40,Cappuccino,Coffee,525.0
+16,5,1.0,40,Cappuccino,Coffee,633.75
+17,8,1.0,40,Cappuccino,Coffee,581.25
+18,3,1.0,41,Cappuccino Lg,Coffee,731.0
+19,5,1.0,41,Cappuccino Lg,Coffee,603.5
+20,8,1.0,41,Cappuccino Lg,Coffee,603.5
+21,3,1.0,63,Carmel syrup,Flavours,54.4
+22,5,1.0,63,Carmel syrup,Flavours,112.0
+23,8,1.0,63,Carmel syrup,Flavours,92.0
+24,3,1.0,21,Chili Mayan,Packaged Chocolate,93.31
+25,5,1.0,21,Chili Mayan,Packaged Chocolate,79.98
+26,8,1.0,21,Chili Mayan,Packaged Chocolate,66.65
+27,3,1.0,76,Chocolate Chip Biscotti,Bakery,287.0
+28,5,1.0,76,Chocolate Chip Biscotti,Bakery,241.5
+29,8,1.0,76,Chocolate Chip Biscotti,Bakery,220.5
+30,3,1.0,71,Chocolate Croissant,Bakery,450.0
+31,5,1.0,71,Chocolate Croissant,Bakery,438.75
+32,8,1.0,71,Chocolate Croissant,Bakery,431.25
+33,3,1.0,84,Chocolate syrup,Flavours,67.2
+34,5,1.0,84,Chocolate syrup,Flavours,114.4
+35,8,1.0,84,Chocolate syrup,Flavours,76.8
+36,3,1.0,8,Civet Cat,Coffee beans,315.0
+37,5,1.0,8,Civet Cat,Coffee beans,135.0
+38,8,1.0,8,Civet Cat,Coffee beans,1215.0
+39,3,1.0,5,Columbian Medium Roast,Coffee beans,45.0
+40,5,1.0,5,Columbian Medium Roast,Coffee beans,30.0
+41,8,1.0,5,Columbian Medium Roast,Coffee beans,45.0
+42,3,1.0,30,Columbian Medium Roast Lg,Coffee,549.0
+43,5,1.0,30,Columbian Medium Roast Lg,Coffee,465.0
+44,8,1.0,30,Columbian Medium Roast Lg,Coffee,459.0
+45,3,1.0,29,Columbian Medium Roast Rg,Coffee,455.0
+46,5,1.0,29,Columbian Medium Roast Rg,Coffee,482.5
+47,8,1.0,29,Columbian Medium Roast Rg,Coffee,430.0
+48,3,1.0,28,Columbian Medium Roast Sm,Coffee,366.0
+49,5,1.0,28,Columbian Medium Roast Sm,Coffee,286.0
+50,8,1.0,28,Columbian Medium Roast Sm,Coffee,340.0
+51,3,1.0,70,Cranberry Scone,Bakery,324.8
+52,5,1.0,70,Cranberry Scone,Bakery,349.16
+53,8,1.0,70,Cranberry Scone,Bakery,328.86
+54,3,1.0,75,Croissant,Bakery,224.0
+55,5,1.0,75,Croissant,Bakery,297.5
+56,8,1.0,75,Croissant,Bakery,220.5
+57,5,1.0,19,Dark chocolate,Packaged Chocolate,19.2
+58,8,1.0,19,Dark chocolate,Packaged Chocolate,57.6
+59,3,1.0,59,Dark chocolate Lg,Drinking Chocolate,877.5
+60,5,1.0,59,Dark chocolate Lg,Drinking Chocolate,742.5
+61,8,1.0,59,Dark chocolate Lg,Drinking Chocolate,792.0
+62,3,1.0,58,Dark chocolate Rg,Drinking Chocolate,668.5
+63,5,1.0,58,Dark chocolate Rg,Drinking Chocolate,490.0
+64,8,1.0,58,Dark chocolate Rg,Drinking Chocolate,486.5
+65,3,1.0,14,Earl Grey,Loose Tea,35.8
+66,5,1.0,14,Earl Grey,Loose Tea,35.8
+67,8,1.0,14,Earl Grey,Loose Tea,134.25
+68,3,1.0,51,Earl Grey Lg,Tea,516.0
+69,5,1.0,51,Earl Grey Lg,Tea,552.0
+70,8,1.0,51,Earl Grey Lg,Tea,432.0
+71,3,1.0,50,Earl Grey Rg,Tea,477.5
+72,5,1.0,50,Earl Grey Rg,Tea,402.5
+73,8,1.0,50,Earl Grey Rg,Tea,450.0
+74,3,1.0,13,English Breakfast,Loose Tea,44.75
+75,5,1.0,13,English Breakfast,Loose Tea,71.6
+76,8,1.0,13,English Breakfast,Loose Tea,53.7
+77,3,1.0,49,English Breakfast Lg,Tea,507.0
+78,5,1.0,49,English Breakfast Lg,Tea,489.0
+79,8,1.0,49,English Breakfast Lg,Tea,507.0
+80,3,1.0,48,English Breakfast Rg,Tea,370.0
+81,5,1.0,48,English Breakfast Rg,Tea,402.5
+82,8,1.0,48,English Breakfast Rg,Tea,430.0
+83,3,1.0,3,Espresso Roast,Coffee beans,103.25
+84,5,1.0,3,Espresso Roast,Coffee beans,59.0
+85,8,1.0,3,Espresso Roast,Coffee beans,132.75
+86,3,1.0,37,Espresso shot,Coffee,510.0
+87,5,1.0,37,Espresso shot,Coffee,420.0
+88,8,1.0,37,Espresso shot,Coffee,501.0
+89,3,1.0,6,Ethiopia,Coffee beans,189.0
+90,5,1.0,6,Ethiopia,Coffee beans,252.0
+91,8,1.0,6,Ethiopia,Coffee beans,105.0
+92,3,1.0,33,Ethiopia Lg,Coffee,448.0
+93,5,1.0,33,Ethiopia Lg,Coffee,581.0
+94,8,1.0,33,Ethiopia Lg,Coffee,553.0
+95,3,1.0,32,Ethiopia Rg,Coffee,513.0
+96,5,1.0,32,Ethiopia Rg,Coffee,471.0
+97,8,1.0,32,Ethiopia Rg,Coffee,468.0
+98,3,1.0,31,Ethiopia Sm,Coffee,420.2
+99,5,1.0,31,Ethiopia Sm,Coffee,426.8
+100,8,1.0,31,Ethiopia Sm,Coffee,358.6
+101,3,1.0,74,Ginger Biscotti,Bakery,284.7
+102,5,1.0,74,Ginger Biscotti,Bakery,289.08
+103,8,1.0,74,Ginger Biscotti,Bakery,381.06
+104,3,1.0,72,Ginger Scone,Bakery,308.56
+105,5,1.0,72,Ginger Scone,Bakery,462.84
+106,8,1.0,72,Ginger Scone,Bakery,414.12
+107,3,1.0,10,Guatemalan Sustainably Grown,Coffee beans,50.0
+108,5,1.0,10,Guatemalan Sustainably Grown,Coffee beans,70.0
+109,8,1.0,10,Guatemalan Sustainably Grown,Coffee beans,110.0
+110,3,1.0,69,Hazelnut Biscotti,Bakery,263.25
+111,5,1.0,69,Hazelnut Biscotti,Bakery,276.25
+112,8,1.0,69,Hazelnut Biscotti,Bakery,253.5
+113,3,1.0,64,Hazelnut syrup,Flavours,41.6
+114,5,1.0,64,Hazelnut syrup,Flavours,100.8
+115,8,1.0,64,Hazelnut syrup,Flavours,62.4
+116,3,1.0,82,I Need My Bean! Diner mug,Branded,120.0
+117,5,1.0,82,I Need My Bean! Diner mug,Branded,132.0
+118,8,1.0,82,I Need My Bean! Diner mug,Branded,60.0
+119,3,1.0,83,I Need My Bean! Latte cup,Branded,196.0
+120,5,1.0,83,I Need My Bean! Latte cup,Branded,294.0
+121,8,1.0,83,I Need My Bean! Latte cup,Branded,42.0
+122,3,1.0,81,I Need My Bean! T-shirt,Branded,504.0
+123,5,1.0,81,I Need My Bean! T-shirt,Branded,420.0
+124,8,1.0,81,I Need My Bean! T-shirt,Branded,84.0
+125,3,1.0,7,Jamacian Coffee River,Coffee beans,118.5
+126,5,1.0,7,Jamacian Coffee River,Coffee beans,118.5
+127,8,1.0,7,Jamacian Coffee River,Coffee beans,79.0
+128,3,1.0,36,Jamaican Coffee River Lg,Coffee,693.75
+129,5,1.0,36,Jamaican Coffee River Lg,Coffee,603.75
+130,8,1.0,36,Jamaican Coffee River Lg,Coffee,592.5
+131,3,1.0,35,Jamaican Coffee River Rg,Coffee,554.9
+132,5,1.0,35,Jamaican Coffee River Rg,Coffee,461.9
+133,8,1.0,35,Jamaican Coffee River Rg,Coffee,489.8
+134,3,1.0,34,Jamaican Coffee River Sm,Coffee,369.95
+135,5,1.0,34,Jamaican Coffee River Sm,Coffee,377.3
+136,8,1.0,34,Jamaican Coffee River Sm,Coffee,387.1
+137,3,1.0,79,Jumbo Savory Scone,Bakery,412.72
+138,5,1.0,79,Jumbo Savory Scone,Bakery,436.17
+139,8,1.0,79,Jumbo Savory Scone,Bakery,314.23
+140,3,1.0,38,Latte,Coffee,708.75
+141,5,1.0,38,Latte,Coffee,615.0
+142,8,1.0,38,Latte,Coffee,660.0
+143,3,1.0,39,Latte Rg,Coffee,735.25
+144,5,1.0,39,Latte Rg,Coffee,862.75
+145,8,1.0,39,Latte Rg,Coffee,675.75
+146,3,1.0,11,Lemon Grass,Loose Tea,44.75
+147,5,1.0,11,Lemon Grass,Loose Tea,35.8
+148,8,1.0,11,Lemon Grass,Loose Tea,53.7
+149,3,1.0,43,Lemon Grass Lg,Tea,498.0
+150,5,1.0,43,Lemon Grass Lg,Tea,456.0
+151,8,1.0,43,Lemon Grass Lg,Tea,465.0
+152,3,1.0,42,Lemon Grass Rg,Tea,462.5
+153,5,1.0,42,Lemon Grass Rg,Tea,375.0
+154,8,1.0,42,Lemon Grass Rg,Tea,417.5
+155,3,1.0,17,Morning Sunrise Chai,Loose Tea,57.0
+156,5,1.0,17,Morning Sunrise Chai,Loose Tea,28.5
+157,8,1.0,17,Morning Sunrise Chai,Loose Tea,85.5
+158,3,1.0,55,Morning Sunrise Chai Lg,Tea,616.0
+159,5,1.0,55,Morning Sunrise Chai Lg,Tea,564.0
+160,8,1.0,55,Morning Sunrise Chai Lg,Tea,584.0
+161,3,1.0,54,Morning Sunrise Chai Rg,Tea,432.5
+162,5,1.0,54,Morning Sunrise Chai Rg,Tea,462.5
+163,8,1.0,54,Morning Sunrise Chai Rg,Tea,470.0
+164,3,1.0,77,Oatmeal Scone,Bakery,213.0
+165,5,1.0,77,Oatmeal Scone,Bakery,258.0
+166,8,1.0,77,Oatmeal Scone,Bakery,180.0
+167,3,1.0,9,Organic Decaf Blend,Coffee beans,112.5
+168,5,1.0,9,Organic Decaf Blend,Coffee beans,247.5
+169,8,1.0,9,Organic Decaf Blend,Coffee beans,360.0
+170,3,1.0,2,Our Old Time Diner Blend,Coffee beans,90.0
+171,5,1.0,2,Our Old Time Diner Blend,Coffee beans,126.0
+172,8,1.0,2,Our Old Time Diner Blend,Coffee beans,270.0
+173,3,1.0,24,Our Old Time Diner Blend Lg,Coffee,504.0
+174,5,1.0,24,Our Old Time Diner Blend Lg,Coffee,447.0
+175,8,1.0,24,Our Old Time Diner Blend Lg,Coffee,441.0
+176,3,1.0,23,Our Old Time Diner Blend Rg,Coffee,425.0
+177,5,1.0,23,Our Old Time Diner Blend Rg,Coffee,407.5
+178,8,1.0,23,Our Old Time Diner Blend Rg,Coffee,375.0
+179,3,1.0,22,Our Old Time Diner Blend Sm,Coffee,340.0
+180,5,1.0,22,Our Old Time Diner Blend Sm,Coffee,284.0
+181,8,1.0,22,Our Old Time Diner Blend Sm,Coffee,360.0
+182,5,1.0,87,Ouro Brasileiro shot,Coffee,522.0
+183,8,1.0,87,Ouro Brasileiro shot,Coffee,678.0
+184,3,1.0,12,Peppermint,Loose Tea,80.55
+185,5,1.0,12,Peppermint,Loose Tea,53.7
+186,8,1.0,12,Peppermint,Loose Tea,80.55
+187,3,1.0,45,Peppermint Lg,Tea,456.0
+188,5,1.0,45,Peppermint Lg,Tea,513.0
+189,8,1.0,45,Peppermint Lg,Tea,516.0
+190,3,1.0,44,Peppermint Rg,Tea,452.5
+191,5,1.0,44,Peppermint Rg,Tea,372.5
+192,8,1.0,44,Peppermint Rg,Tea,457.5
+193,3,1.0,4,Primo Espresso Roast,Coffee beans,184.05
+194,5,1.0,4,Primo Espresso Roast,Coffee beans,81.8
+195,8,1.0,4,Primo Espresso Roast,Coffee beans,245.4
+196,3,1.0,78,Scottish Cream Scone ,Bakery,342.0
+197,5,1.0,78,Scottish Cream Scone ,Bakery,310.5
+198,8,1.0,78,Scottish Cream Scone ,Bakery,382.5
+199,3,1.0,15,Serenity Green Tea,Loose Tea,55.5
+200,5,1.0,15,Serenity Green Tea,Loose Tea,74.0
+201,8,1.0,15,Serenity Green Tea,Loose Tea,55.5
+202,3,1.0,47,Serenity Green Tea Lg,Tea,513.0
+203,5,1.0,47,Serenity Green Tea Lg,Tea,492.0
+204,8,1.0,47,Serenity Green Tea Lg,Tea,516.0
+205,3,1.0,46,Serenity Green Tea Rg,Tea,422.5
+206,5,1.0,46,Serenity Green Tea Rg,Tea,412.5
+207,8,1.0,46,Serenity Green Tea Rg,Tea,527.5
+208,3,1.0,18,Spicy Eye Opener Chai,Loose Tea,32.85
+209,5,1.0,18,Spicy Eye Opener Chai,Loose Tea,32.85
+210,8,1.0,18,Spicy Eye Opener Chai,Loose Tea,21.9
+211,3,1.0,57,Spicy Eye Opener Chai Lg,Tea,632.4
+212,5,1.0,57,Spicy Eye Opener Chai Lg,Tea,455.7
+213,8,1.0,57,Spicy Eye Opener Chai Lg,Tea,499.1
+214,3,1.0,56,Spicy Eye Opener Chai Rg,Tea,461.55
+215,5,1.0,56,Spicy Eye Opener Chai Rg,Tea,392.7
+216,8,1.0,56,Spicy Eye Opener Chai Rg,Tea,433.5
+217,3,1.0,65,Sugar Free Vanilla syrup,Flavours,53.6
+218,5,1.0,65,Sugar Free Vanilla syrup,Flavours,128.0
+219,8,1.0,65,Sugar Free Vanilla syrup,Flavours,71.2
+220,3,1.0,20,Sustainably Grown Organic,Packaged Chocolate,60.8
+221,5,1.0,20,Sustainably Grown Organic,Packaged Chocolate,68.4
+222,8,1.0,20,Sustainably Grown Organic,Packaged Chocolate,76.0
+223,3,1.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,821.75
+224,5,1.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,688.75
+225,8,1.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,850.25
+226,3,1.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,742.5
+227,5,1.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,592.5
+228,8,1.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,585.0
+229,3,1.0,16,Traditional Blend Chai,Loose Tea,44.75
+230,5,1.0,16,Traditional Blend Chai,Loose Tea,44.75
+231,8,1.0,16,Traditional Blend Chai,Loose Tea,35.8
+232,3,1.0,53,Traditional Blend Chai Lg,Tea,498.0
+233,5,1.0,53,Traditional Blend Chai Lg,Tea,426.0
+234,8,1.0,53,Traditional Blend Chai Lg,Tea,516.0
+235,3,1.0,52,Traditional Blend Chai Rg,Tea,512.5
+236,5,1.0,52,Traditional Blend Chai Rg,Tea,377.5
+237,8,1.0,52,Traditional Blend Chai Rg,Tea,427.5
+238,3,2.0,73,Almond Croissant,Bakery,243.75
+239,5,2.0,73,Almond Croissant,Bakery,266.25
+240,8,2.0,73,Almond Croissant,Bakery,251.25
+241,3,2.0,1,Brazilian - Organic,Coffee beans,90.0
+242,5,2.0,1,Brazilian - Organic,Coffee beans,144.0
+243,8,2.0,1,Brazilian - Organic,Coffee beans,180.0
+244,3,2.0,27,Brazilian Lg,Coffee,581.0
+245,5,2.0,27,Brazilian Lg,Coffee,528.5
+246,8,2.0,27,Brazilian Lg,Coffee,567.0
+247,3,2.0,26,Brazilian Rg,Coffee,522.0
+248,5,2.0,26,Brazilian Rg,Coffee,444.0
+249,8,2.0,26,Brazilian Rg,Coffee,423.0
+250,3,2.0,25,Brazilian Sm,Coffee,336.6
+251,5,2.0,25,Brazilian Sm,Coffee,341.0
+252,8,2.0,25,Brazilian Sm,Coffee,334.4
+253,3,2.0,40,Cappuccino,Coffee,603.75
+254,5,2.0,40,Cappuccino,Coffee,513.75
+255,8,2.0,40,Cappuccino,Coffee,592.5
+256,3,2.0,41,Cappuccino Lg,Coffee,650.25
+257,5,2.0,41,Cappuccino Lg,Coffee,667.25
+258,8,2.0,41,Cappuccino Lg,Coffee,595.0
+259,3,2.0,63,Carmel syrup,Flavours,47.2
+260,5,2.0,63,Carmel syrup,Flavours,95.2
+261,8,2.0,63,Carmel syrup,Flavours,73.6
+262,3,2.0,21,Chili Mayan,Packaged Chocolate,39.99
+263,5,2.0,21,Chili Mayan,Packaged Chocolate,79.98
+264,8,2.0,21,Chili Mayan,Packaged Chocolate,66.65
+265,3,2.0,76,Chocolate Chip Biscotti,Bakery,234.5
+266,5,2.0,76,Chocolate Chip Biscotti,Bakery,280.0
+267,8,2.0,76,Chocolate Chip Biscotti,Bakery,255.5
+268,3,2.0,71,Chocolate Croissant,Bakery,427.5
+269,5,2.0,71,Chocolate Croissant,Bakery,412.5
+270,8,2.0,71,Chocolate Croissant,Bakery,408.75
+271,3,2.0,84,Chocolate syrup,Flavours,68.8
+272,5,2.0,84,Chocolate syrup,Flavours,78.4
+273,8,2.0,84,Chocolate syrup,Flavours,84.0
+274,3,2.0,8,Civet Cat,Coffee beans,180.0
+275,5,2.0,8,Civet Cat,Coffee beans,360.0
+276,8,2.0,8,Civet Cat,Coffee beans,405.0
+277,3,2.0,5,Columbian Medium Roast,Coffee beans,90.0
+278,5,2.0,5,Columbian Medium Roast,Coffee beans,105.0
+279,8,2.0,5,Columbian Medium Roast,Coffee beans,75.0
+280,3,2.0,30,Columbian Medium Roast Lg,Coffee,435.0
+281,5,2.0,30,Columbian Medium Roast Lg,Coffee,504.0
+282,8,2.0,30,Columbian Medium Roast Lg,Coffee,420.0
+283,3,2.0,29,Columbian Medium Roast Rg,Coffee,450.0
+284,5,2.0,29,Columbian Medium Roast Rg,Coffee,377.5
+285,8,2.0,29,Columbian Medium Roast Rg,Coffee,372.5
+286,3,2.0,28,Columbian Medium Roast Sm,Coffee,322.0
+287,5,2.0,28,Columbian Medium Roast Sm,Coffee,270.0
+288,8,2.0,28,Columbian Medium Roast Sm,Coffee,360.0
+289,3,2.0,70,Cranberry Scone,Bakery,332.92
+290,5,2.0,70,Cranberry Scone,Bakery,320.74
+291,8,2.0,70,Cranberry Scone,Bakery,377.58
+292,3,2.0,75,Croissant,Bakery,262.5
+293,5,2.0,75,Croissant,Bakery,294.0
+294,8,2.0,75,Croissant,Bakery,241.5
+295,3,2.0,19,Dark chocolate,Packaged Chocolate,12.8
+296,5,2.0,19,Dark chocolate,Packaged Chocolate,38.4
+297,8,2.0,19,Dark chocolate,Packaged Chocolate,38.4
+298,3,2.0,59,Dark chocolate Lg,Drinking Chocolate,904.5
+299,5,2.0,59,Dark chocolate Lg,Drinking Chocolate,738.0
+300,8,2.0,59,Dark chocolate Lg,Drinking Chocolate,729.0
+301,3,2.0,58,Dark chocolate Rg,Drinking Chocolate,658.0
+302,5,2.0,58,Dark chocolate Rg,Drinking Chocolate,493.5
+303,8,2.0,58,Dark chocolate Rg,Drinking Chocolate,500.5
+304,3,2.0,14,Earl Grey,Loose Tea,35.8
+305,5,2.0,14,Earl Grey,Loose Tea,71.6
+306,8,2.0,14,Earl Grey,Loose Tea,53.7
+307,3,2.0,51,Earl Grey Lg,Tea,471.0
+308,5,2.0,51,Earl Grey Lg,Tea,531.0
+309,8,2.0,51,Earl Grey Lg,Tea,471.0
+310,3,2.0,50,Earl Grey Rg,Tea,435.0
+311,5,2.0,50,Earl Grey Rg,Tea,407.5
+312,8,2.0,50,Earl Grey Rg,Tea,462.5
+313,3,2.0,13,English Breakfast,Loose Tea,44.75
+314,5,2.0,13,English Breakfast,Loose Tea,80.55
+315,8,2.0,13,English Breakfast,Loose Tea,53.7
+316,3,2.0,49,English Breakfast Lg,Tea,435.0
+317,5,2.0,49,English Breakfast Lg,Tea,489.0
+318,8,2.0,49,English Breakfast Lg,Tea,510.0
+319,3,2.0,48,English Breakfast Rg,Tea,367.5
+320,5,2.0,48,English Breakfast Rg,Tea,432.5
+321,8,2.0,48,English Breakfast Rg,Tea,357.5
+322,3,2.0,3,Espresso Roast,Coffee beans,73.75
+323,5,2.0,3,Espresso Roast,Coffee beans,59.0
+324,8,2.0,3,Espresso Roast,Coffee beans,132.75
+325,3,2.0,37,Espresso shot,Coffee,453.0
+326,5,2.0,37,Espresso shot,Coffee,456.0
+327,8,2.0,37,Espresso shot,Coffee,486.0
+328,3,2.0,6,Ethiopia,Coffee beans,210.0
+329,5,2.0,6,Ethiopia,Coffee beans,210.0
+330,8,2.0,6,Ethiopia,Coffee beans,147.0
+331,3,2.0,33,Ethiopia Lg,Coffee,546.0
+332,5,2.0,33,Ethiopia Lg,Coffee,455.0
+333,8,2.0,33,Ethiopia Lg,Coffee,633.5
+334,3,2.0,32,Ethiopia Rg,Coffee,450.0
+335,5,2.0,32,Ethiopia Rg,Coffee,540.0
+336,8,2.0,32,Ethiopia Rg,Coffee,480.0
+337,3,2.0,31,Ethiopia Sm,Coffee,374.0
+338,5,2.0,31,Ethiopia Sm,Coffee,321.2
+339,8,2.0,31,Ethiopia Sm,Coffee,341.0
+340,3,2.0,74,Ginger Biscotti,Bakery,315.36
+341,5,2.0,74,Ginger Biscotti,Bakery,275.94
+342,8,2.0,74,Ginger Biscotti,Bakery,293.46
+343,3,2.0,72,Ginger Scone,Bakery,259.84
+344,5,2.0,72,Ginger Scone,Bakery,511.56
+345,8,2.0,72,Ginger Scone,Bakery,373.52
+346,3,2.0,10,Guatemalan Sustainably Grown,Coffee beans,70.0
+347,5,2.0,10,Guatemalan Sustainably Grown,Coffee beans,20.0
+348,8,2.0,10,Guatemalan Sustainably Grown,Coffee beans,80.0
+349,3,2.0,69,Hazelnut Biscotti,Bakery,256.75
+350,5,2.0,69,Hazelnut Biscotti,Bakery,276.25
+351,8,2.0,69,Hazelnut Biscotti,Bakery,227.5
+352,3,2.0,64,Hazelnut syrup,Flavours,44.0
+353,5,2.0,64,Hazelnut syrup,Flavours,100.0
+354,8,2.0,64,Hazelnut syrup,Flavours,78.4
+355,3,2.0,82,I Need My Bean! Diner mug,Branded,60.0
+356,5,2.0,82,I Need My Bean! Diner mug,Branded,192.0
+357,8,2.0,82,I Need My Bean! Diner mug,Branded,36.0
+358,3,2.0,83,I Need My Bean! Latte cup,Branded,154.0
+359,5,2.0,83,I Need My Bean! Latte cup,Branded,196.0
+360,8,2.0,83,I Need My Bean! Latte cup,Branded,112.0
+361,3,2.0,81,I Need My Bean! T-shirt,Branded,252.0
+362,5,2.0,81,I Need My Bean! T-shirt,Branded,140.0
+363,8,2.0,81,I Need My Bean! T-shirt,Branded,84.0
+364,3,2.0,7,Jamacian Coffee River,Coffee beans,98.75
+365,5,2.0,7,Jamacian Coffee River,Coffee beans,79.0
+366,8,2.0,7,Jamacian Coffee River,Coffee beans,138.25
+367,3,2.0,36,Jamaican Coffee River Lg,Coffee,615.0
+368,5,2.0,36,Jamaican Coffee River Lg,Coffee,611.25
+369,8,2.0,36,Jamaican Coffee River Lg,Coffee,502.5
+370,3,2.0,35,Jamaican Coffee River Rg,Coffee,502.2
+371,5,2.0,35,Jamaican Coffee River Rg,Coffee,384.4
+372,8,2.0,35,Jamaican Coffee River Rg,Coffee,409.2
+373,3,2.0,34,Jamaican Coffee River Sm,Coffee,382.2
+374,5,2.0,34,Jamaican Coffee River Sm,Coffee,401.8
+375,8,2.0,34,Jamaican Coffee River Sm,Coffee,340.55
+376,3,2.0,79,Jumbo Savory Scone,Bakery,365.82
+377,5,2.0,79,Jumbo Savory Scone,Bakery,300.16
+378,8,2.0,79,Jumbo Savory Scone,Bakery,323.61
+379,3,2.0,38,Latte,Coffee,656.25
+380,5,2.0,38,Latte,Coffee,742.5
+381,8,2.0,38,Latte,Coffee,566.25
+382,3,2.0,39,Latte Rg,Coffee,705.5
+383,5,2.0,39,Latte Rg,Coffee,612.0
+384,8,2.0,39,Latte Rg,Coffee,692.75
+385,3,2.0,11,Lemon Grass,Loose Tea,44.75
+386,5,2.0,11,Lemon Grass,Loose Tea,26.85
+387,8,2.0,11,Lemon Grass,Loose Tea,89.5
+388,3,2.0,43,Lemon Grass Lg,Tea,441.0
+389,5,2.0,43,Lemon Grass Lg,Tea,444.0
+390,8,2.0,43,Lemon Grass Lg,Tea,453.0
+391,3,2.0,42,Lemon Grass Rg,Tea,332.5
+392,5,2.0,42,Lemon Grass Rg,Tea,407.5
+393,8,2.0,42,Lemon Grass Rg,Tea,365.0
+394,3,2.0,17,Morning Sunrise Chai,Loose Tea,47.5
+395,5,2.0,17,Morning Sunrise Chai,Loose Tea,38.0
+396,8,2.0,17,Morning Sunrise Chai,Loose Tea,28.5
+397,3,2.0,55,Morning Sunrise Chai Lg,Tea,720.0
+398,5,2.0,55,Morning Sunrise Chai Lg,Tea,648.0
+399,8,2.0,55,Morning Sunrise Chai Lg,Tea,560.0
+400,3,2.0,54,Morning Sunrise Chai Rg,Tea,417.5
+401,5,2.0,54,Morning Sunrise Chai Rg,Tea,387.5
+402,8,2.0,54,Morning Sunrise Chai Rg,Tea,482.5
+403,3,2.0,77,Oatmeal Scone,Bakery,234.0
+404,5,2.0,77,Oatmeal Scone,Bakery,210.0
+405,8,2.0,77,Oatmeal Scone,Bakery,126.0
+406,3,2.0,9,Organic Decaf Blend,Coffee beans,45.0
+407,5,2.0,9,Organic Decaf Blend,Coffee beans,180.0
+408,8,2.0,9,Organic Decaf Blend,Coffee beans,202.5
+409,3,2.0,2,Our Old Time Diner Blend,Coffee beans,54.0
+410,5,2.0,2,Our Old Time Diner Blend,Coffee beans,90.0
+411,8,2.0,2,Our Old Time Diner Blend,Coffee beans,144.0
+412,3,2.0,24,Our Old Time Diner Blend Lg,Coffee,444.0
+413,5,2.0,24,Our Old Time Diner Blend Lg,Coffee,318.0
+414,8,2.0,24,Our Old Time Diner Blend Lg,Coffee,429.0
+415,3,2.0,23,Our Old Time Diner Blend Rg,Coffee,375.0
+416,5,2.0,23,Our Old Time Diner Blend Rg,Coffee,390.0
+417,8,2.0,23,Our Old Time Diner Blend Rg,Coffee,417.5
+418,3,2.0,22,Our Old Time Diner Blend Sm,Coffee,322.0
+419,5,2.0,22,Our Old Time Diner Blend Sm,Coffee,310.0
+420,8,2.0,22,Our Old Time Diner Blend Sm,Coffee,358.0
+421,5,2.0,87,Ouro Brasileiro shot,Coffee,462.0
+422,8,2.0,87,Ouro Brasileiro shot,Coffee,675.0
+423,3,2.0,12,Peppermint,Loose Tea,53.7
+424,5,2.0,12,Peppermint,Loose Tea,35.8
+425,8,2.0,12,Peppermint,Loose Tea,62.65
+426,3,2.0,45,Peppermint Lg,Tea,456.0
+427,5,2.0,45,Peppermint Lg,Tea,564.0
+428,8,2.0,45,Peppermint Lg,Tea,408.0
+429,3,2.0,44,Peppermint Rg,Tea,465.0
+430,5,2.0,44,Peppermint Rg,Tea,442.5
+431,8,2.0,44,Peppermint Rg,Tea,447.5
+432,3,2.0,4,Primo Espresso Roast,Coffee beans,122.7
+433,5,2.0,4,Primo Espresso Roast,Coffee beans,81.8
+434,8,2.0,4,Primo Espresso Roast,Coffee beans,204.5
+435,3,2.0,78,Scottish Cream Scone ,Bakery,247.5
+436,5,2.0,78,Scottish Cream Scone ,Bakery,265.5
+437,8,2.0,78,Scottish Cream Scone ,Bakery,396.0
+438,3,2.0,15,Serenity Green Tea,Loose Tea,27.75
+439,5,2.0,15,Serenity Green Tea,Loose Tea,83.25
+440,8,2.0,15,Serenity Green Tea,Loose Tea,46.25
+441,3,2.0,47,Serenity Green Tea Lg,Tea,513.0
+442,5,2.0,47,Serenity Green Tea Lg,Tea,438.0
+443,8,2.0,47,Serenity Green Tea Lg,Tea,501.0
+444,3,2.0,46,Serenity Green Tea Rg,Tea,412.5
+445,5,2.0,46,Serenity Green Tea Rg,Tea,427.5
+446,8,2.0,46,Serenity Green Tea Rg,Tea,462.5
+447,3,2.0,18,Spicy Eye Opener Chai,Loose Tea,43.8
+448,5,2.0,18,Spicy Eye Opener Chai,Loose Tea,87.6
+449,8,2.0,18,Spicy Eye Opener Chai,Loose Tea,87.6
+450,3,2.0,57,Spicy Eye Opener Chai Lg,Tea,527.0
+451,5,2.0,57,Spicy Eye Opener Chai Lg,Tea,412.3
+452,8,2.0,57,Spicy Eye Opener Chai Lg,Tea,477.4
+453,3,2.0,56,Spicy Eye Opener Chai Rg,Tea,415.65
+454,5,2.0,56,Spicy Eye Opener Chai Rg,Tea,359.55
+455,8,2.0,56,Spicy Eye Opener Chai Rg,Tea,408.0
+456,3,2.0,65,Sugar Free Vanilla syrup,Flavours,44.8
+457,5,2.0,65,Sugar Free Vanilla syrup,Flavours,132.0
+458,8,2.0,65,Sugar Free Vanilla syrup,Flavours,84.0
+459,3,2.0,20,Sustainably Grown Organic,Packaged Chocolate,45.6
+460,5,2.0,20,Sustainably Grown Organic,Packaged Chocolate,91.2
+461,8,2.0,20,Sustainably Grown Organic,Packaged Chocolate,38.0
+462,3,2.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,840.75
+463,5,2.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,646.0
+464,8,2.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,840.75
+465,3,2.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,592.5
+466,5,2.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,566.25
+467,8,2.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,622.5
+468,3,2.0,16,Traditional Blend Chai,Loose Tea,44.75
+469,5,2.0,16,Traditional Blend Chai,Loose Tea,44.75
+470,8,2.0,16,Traditional Blend Chai,Loose Tea,44.75
+471,3,2.0,53,Traditional Blend Chai Lg,Tea,507.0
+472,5,2.0,53,Traditional Blend Chai Lg,Tea,426.0
+473,8,2.0,53,Traditional Blend Chai Lg,Tea,450.0
+474,3,2.0,52,Traditional Blend Chai Rg,Tea,387.5
+475,5,2.0,52,Traditional Blend Chai Rg,Tea,400.0
+476,8,2.0,52,Traditional Blend Chai Rg,Tea,397.5
+477,3,3.0,73,Almond Croissant,Bakery,333.75
+478,5,3.0,73,Almond Croissant,Bakery,322.5
+479,8,3.0,73,Almond Croissant,Bakery,352.5
+480,3,3.0,1,Brazilian - Organic,Coffee beans,198.0
+481,5,3.0,1,Brazilian - Organic,Coffee beans,198.0
+482,8,3.0,1,Brazilian - Organic,Coffee beans,234.0
+483,3,3.0,27,Brazilian Lg,Coffee,584.5
+484,5,3.0,27,Brazilian Lg,Coffee,623.0
+485,8,3.0,27,Brazilian Lg,Coffee,784.0
+486,3,3.0,26,Brazilian Rg,Coffee,717.0
+487,5,3.0,26,Brazilian Rg,Coffee,657.0
+488,8,3.0,26,Brazilian Rg,Coffee,669.0
+489,3,3.0,25,Brazilian Sm,Coffee,411.4
+490,5,3.0,25,Brazilian Sm,Coffee,371.8
+491,8,3.0,25,Brazilian Sm,Coffee,506.0
+492,3,3.0,40,Cappuccino,Coffee,708.75
+493,5,3.0,40,Cappuccino,Coffee,761.25
+494,8,3.0,40,Cappuccino,Coffee,840.0
+495,3,3.0,41,Cappuccino Lg,Coffee,1003.0
+496,5,3.0,41,Cappuccino Lg,Coffee,837.25
+497,8,3.0,41,Cappuccino Lg,Coffee,807.5
+498,3,3.0,63,Carmel syrup,Flavours,59.2
+499,5,3.0,63,Carmel syrup,Flavours,116.0
+500,8,3.0,63,Carmel syrup,Flavours,104.8
+501,3,3.0,21,Chili Mayan,Packaged Chocolate,79.98
+502,5,3.0,21,Chili Mayan,Packaged Chocolate,66.65
+503,8,3.0,21,Chili Mayan,Packaged Chocolate,119.97
+504,3,3.0,76,Chocolate Chip Biscotti,Bakery,353.5
+505,5,3.0,76,Chocolate Chip Biscotti,Bakery,325.5
+506,8,3.0,76,Chocolate Chip Biscotti,Bakery,301.0
+507,3,3.0,71,Chocolate Croissant,Bakery,588.75
+508,5,3.0,71,Chocolate Croissant,Bakery,573.75
+509,8,3.0,71,Chocolate Croissant,Bakery,577.5
+510,3,3.0,84,Chocolate syrup,Flavours,78.4
+511,5,3.0,84,Chocolate syrup,Flavours,123.2
+512,8,3.0,84,Chocolate syrup,Flavours,116.0
+513,3,3.0,8,Civet Cat,Coffee beans,270.0
+514,5,3.0,8,Civet Cat,Coffee beans,360.0
+515,8,3.0,8,Civet Cat,Coffee beans,585.0
+516,3,3.0,5,Columbian Medium Roast,Coffee beans,135.0
+517,5,3.0,5,Columbian Medium Roast,Coffee beans,60.0
+518,8,3.0,5,Columbian Medium Roast,Coffee beans,135.0
+519,3,3.0,30,Columbian Medium Roast Lg,Coffee,588.0
+520,5,3.0,30,Columbian Medium Roast Lg,Coffee,651.0
+521,8,3.0,30,Columbian Medium Roast Lg,Coffee,501.0
+522,3,3.0,29,Columbian Medium Roast Rg,Coffee,592.5
+523,5,3.0,29,Columbian Medium Roast Rg,Coffee,535.0
+524,8,3.0,29,Columbian Medium Roast Rg,Coffee,517.5
+525,3,3.0,28,Columbian Medium Roast Sm,Coffee,422.0
+526,5,3.0,28,Columbian Medium Roast Sm,Coffee,316.0
+527,8,3.0,28,Columbian Medium Roast Sm,Coffee,390.0
+528,3,3.0,70,Cranberry Scone,Bakery,406.0
+529,5,3.0,70,Cranberry Scone,Bakery,397.88
+530,8,3.0,70,Cranberry Scone,Bakery,422.24
+531,3,3.0,75,Croissant,Bakery,315.0
+532,5,3.0,75,Croissant,Bakery,353.5
+533,8,3.0,75,Croissant,Bakery,301.0
+534,3,3.0,19,Dark chocolate,Packaged Chocolate,6.4
+535,5,3.0,19,Dark chocolate,Packaged Chocolate,38.4
+536,8,3.0,19,Dark chocolate,Packaged Chocolate,64.0
+537,3,3.0,59,Dark chocolate Lg,Drinking Chocolate,967.5
+538,5,3.0,59,Dark chocolate Lg,Drinking Chocolate,963.0
+539,8,3.0,59,Dark chocolate Lg,Drinking Chocolate,945.0
+540,3,3.0,58,Dark chocolate Rg,Drinking Chocolate,770.0
+541,5,3.0,58,Dark chocolate Rg,Drinking Chocolate,626.5
+542,8,3.0,58,Dark chocolate Rg,Drinking Chocolate,605.5
+543,3,3.0,14,Earl Grey,Loose Tea,17.9
+544,5,3.0,14,Earl Grey,Loose Tea,71.6
+545,8,3.0,14,Earl Grey,Loose Tea,116.35
+546,3,3.0,51,Earl Grey Lg,Tea,579.0
+547,5,3.0,51,Earl Grey Lg,Tea,684.0
+548,8,3.0,51,Earl Grey Lg,Tea,513.0
+549,3,3.0,50,Earl Grey Rg,Tea,660.0
+550,5,3.0,50,Earl Grey Rg,Tea,495.0
+551,8,3.0,50,Earl Grey Rg,Tea,557.5
+552,3,3.0,13,English Breakfast,Loose Tea,62.65
+553,5,3.0,13,English Breakfast,Loose Tea,89.5
+554,8,3.0,13,English Breakfast,Loose Tea,53.7
+555,3,3.0,49,English Breakfast Lg,Tea,594.0
+556,5,3.0,49,English Breakfast Lg,Tea,606.0
+557,8,3.0,49,English Breakfast Lg,Tea,654.0
+558,3,3.0,48,English Breakfast Rg,Tea,507.5
+559,5,3.0,48,English Breakfast Rg,Tea,572.5
+560,8,3.0,48,English Breakfast Rg,Tea,452.5
+561,3,3.0,3,Espresso Roast,Coffee beans,118.0
+562,5,3.0,3,Espresso Roast,Coffee beans,147.5
+563,8,3.0,3,Espresso Roast,Coffee beans,162.25
+564,3,3.0,37,Espresso shot,Coffee,591.0
+565,5,3.0,37,Espresso shot,Coffee,519.0
+566,8,3.0,37,Espresso shot,Coffee,576.0
+567,3,3.0,6,Ethiopia,Coffee beans,231.0
+568,5,3.0,6,Ethiopia,Coffee beans,294.0
+569,8,3.0,6,Ethiopia,Coffee beans,168.0
+570,3,3.0,33,Ethiopia Lg,Coffee,658.0
+571,5,3.0,33,Ethiopia Lg,Coffee,721.0
+572,8,3.0,33,Ethiopia Lg,Coffee,794.5
+573,3,3.0,32,Ethiopia Rg,Coffee,588.0
+574,5,3.0,32,Ethiopia Rg,Coffee,612.0
+575,8,3.0,32,Ethiopia Rg,Coffee,609.0
+576,3,3.0,31,Ethiopia Sm,Coffee,462.0
+577,5,3.0,31,Ethiopia Sm,Coffee,433.4
+578,8,3.0,31,Ethiopia Sm,Coffee,398.2
+579,3,3.0,74,Ginger Biscotti,Bakery,424.86
+580,5,3.0,74,Ginger Biscotti,Bakery,346.02
+581,8,3.0,74,Ginger Biscotti,Bakery,416.1
+582,3,3.0,72,Ginger Scone,Bakery,365.4
+583,5,3.0,72,Ginger Scone,Bakery,548.1
+584,8,3.0,72,Ginger Scone,Bakery,556.22
+585,3,3.0,10,Guatemalan Sustainably Grown,Coffee beans,50.0
+586,5,3.0,10,Guatemalan Sustainably Grown,Coffee beans,60.0
+587,8,3.0,10,Guatemalan Sustainably Grown,Coffee beans,80.0
+588,3,3.0,69,Hazelnut Biscotti,Bakery,328.25
+589,5,3.0,69,Hazelnut Biscotti,Bakery,354.25
+590,8,3.0,69,Hazelnut Biscotti,Bakery,308.75
+591,3,3.0,64,Hazelnut syrup,Flavours,45.6
+592,5,3.0,64,Hazelnut syrup,Flavours,118.4
+593,8,3.0,64,Hazelnut syrup,Flavours,100.0
+594,3,3.0,82,I Need My Bean! Diner mug,Branded,144.0
+595,5,3.0,82,I Need My Bean! Diner mug,Branded,264.0
+596,8,3.0,82,I Need My Bean! Diner mug,Branded,36.0
+597,3,3.0,83,I Need My Bean! Latte cup,Branded,210.0
+598,5,3.0,83,I Need My Bean! Latte cup,Branded,238.0
+599,8,3.0,83,I Need My Bean! Latte cup,Branded,84.0
+600,3,3.0,81,I Need My Bean! T-shirt,Branded,392.0
+601,5,3.0,81,I Need My Bean! T-shirt,Branded,308.0
+602,8,3.0,81,I Need My Bean! T-shirt,Branded,112.0
+603,3,3.0,7,Jamacian Coffee River,Coffee beans,138.25
+604,5,3.0,7,Jamacian Coffee River,Coffee beans,79.0
+605,8,3.0,7,Jamacian Coffee River,Coffee beans,98.75
+606,3,3.0,36,Jamaican Coffee River Lg,Coffee,903.75
+607,5,3.0,36,Jamaican Coffee River Lg,Coffee,836.25
+608,8,3.0,36,Jamaican Coffee River Lg,Coffee,783.75
+609,3,3.0,35,Jamaican Coffee River Rg,Coffee,635.5
+610,5,3.0,35,Jamaican Coffee River Rg,Coffee,533.2
+611,8,3.0,35,Jamaican Coffee River Rg,Coffee,514.6
+612,3,3.0,34,Jamaican Coffee River Sm,Coffee,423.85
+613,5,3.0,34,Jamaican Coffee River Sm,Coffee,502.25
+614,8,3.0,34,Jamaican Coffee River Sm,Coffee,418.95
+615,3,3.0,79,Jumbo Savory Scone,Bakery,450.24
+616,5,3.0,79,Jumbo Savory Scone,Bakery,511.21
+617,8,3.0,79,Jumbo Savory Scone,Bakery,389.27
+618,3,3.0,38,Latte,Coffee,780.0
+619,5,3.0,38,Latte,Coffee,813.75
+620,8,3.0,38,Latte,Coffee,783.75
+621,3,3.0,39,Latte Rg,Coffee,956.25
+622,5,3.0,39,Latte Rg,Coffee,884.0
+623,8,3.0,39,Latte Rg,Coffee,943.5
+624,3,3.0,11,Lemon Grass,Loose Tea,35.8
+625,5,3.0,11,Lemon Grass,Loose Tea,26.85
+626,8,3.0,11,Lemon Grass,Loose Tea,134.25
+627,3,3.0,43,Lemon Grass Lg,Tea,564.0
+628,5,3.0,43,Lemon Grass Lg,Tea,585.0
+629,8,3.0,43,Lemon Grass Lg,Tea,576.0
+630,3,3.0,42,Lemon Grass Rg,Tea,470.0
+631,5,3.0,42,Lemon Grass Rg,Tea,517.5
+632,8,3.0,42,Lemon Grass Rg,Tea,505.0
+633,3,3.0,17,Morning Sunrise Chai,Loose Tea,85.5
+634,5,3.0,17,Morning Sunrise Chai,Loose Tea,66.5
+635,8,3.0,17,Morning Sunrise Chai,Loose Tea,85.5
+636,3,3.0,55,Morning Sunrise Chai Lg,Tea,948.0
+637,5,3.0,55,Morning Sunrise Chai Lg,Tea,732.0
+638,8,3.0,55,Morning Sunrise Chai Lg,Tea,820.0
+639,3,3.0,54,Morning Sunrise Chai Rg,Tea,587.5
+640,5,3.0,54,Morning Sunrise Chai Rg,Tea,515.0
+641,8,3.0,54,Morning Sunrise Chai Rg,Tea,597.5
+642,3,3.0,77,Oatmeal Scone,Bakery,270.0
+643,5,3.0,77,Oatmeal Scone,Bakery,279.0
+644,8,3.0,77,Oatmeal Scone,Bakery,240.0
+645,3,3.0,9,Organic Decaf Blend,Coffee beans,180.0
+646,5,3.0,9,Organic Decaf Blend,Coffee beans,225.0
+647,8,3.0,9,Organic Decaf Blend,Coffee beans,225.0
+648,3,3.0,2,Our Old Time Diner Blend,Coffee beans,108.0
+649,5,3.0,2,Our Old Time Diner Blend,Coffee beans,90.0
+650,8,3.0,2,Our Old Time Diner Blend,Coffee beans,180.0
+651,3,3.0,24,Our Old Time Diner Blend Lg,Coffee,657.0
+652,5,3.0,24,Our Old Time Diner Blend Lg,Coffee,501.0
+653,8,3.0,24,Our Old Time Diner Blend Lg,Coffee,630.0
+654,3,3.0,23,Our Old Time Diner Blend Rg,Coffee,502.5
+655,5,3.0,23,Our Old Time Diner Blend Rg,Coffee,492.5
+656,8,3.0,23,Our Old Time Diner Blend Rg,Coffee,537.5
+657,3,3.0,22,Our Old Time Diner Blend Sm,Coffee,464.0
+658,5,3.0,22,Our Old Time Diner Blend Sm,Coffee,376.0
+659,8,3.0,22,Our Old Time Diner Blend Sm,Coffee,400.0
+660,5,3.0,87,Ouro Brasileiro shot,Coffee,615.0
+661,8,3.0,87,Ouro Brasileiro shot,Coffee,795.0
+662,3,3.0,12,Peppermint,Loose Tea,98.45
+663,5,3.0,12,Peppermint,Loose Tea,44.75
+664,8,3.0,12,Peppermint,Loose Tea,80.55
+665,3,3.0,45,Peppermint Lg,Tea,612.0
+666,5,3.0,45,Peppermint Lg,Tea,669.0
+667,8,3.0,45,Peppermint Lg,Tea,585.0
+668,3,3.0,44,Peppermint Rg,Tea,587.5
+669,5,3.0,44,Peppermint Rg,Tea,522.5
+670,8,3.0,44,Peppermint Rg,Tea,487.5
+671,3,3.0,4,Primo Espresso Roast,Coffee beans,143.15
+672,5,3.0,4,Primo Espresso Roast,Coffee beans,61.35
+673,8,3.0,4,Primo Espresso Roast,Coffee beans,224.95
+674,3,3.0,78,Scottish Cream Scone ,Bakery,355.5
+675,5,3.0,78,Scottish Cream Scone ,Bakery,409.5
+676,8,3.0,78,Scottish Cream Scone ,Bakery,481.5
+677,3,3.0,15,Serenity Green Tea,Loose Tea,92.5
+678,5,3.0,15,Serenity Green Tea,Loose Tea,120.25
+679,8,3.0,15,Serenity Green Tea,Loose Tea,37.0
+680,3,3.0,47,Serenity Green Tea Lg,Tea,594.0
+681,5,3.0,47,Serenity Green Tea Lg,Tea,519.0
+682,8,3.0,47,Serenity Green Tea Lg,Tea,612.0
+683,3,3.0,46,Serenity Green Tea Rg,Tea,520.0
+684,5,3.0,46,Serenity Green Tea Rg,Tea,562.5
+685,8,3.0,46,Serenity Green Tea Rg,Tea,517.5
+686,3,3.0,18,Spicy Eye Opener Chai,Loose Tea,54.75
+687,5,3.0,18,Spicy Eye Opener Chai,Loose Tea,87.6
+688,8,3.0,18,Spicy Eye Opener Chai,Loose Tea,32.85
+689,3,3.0,57,Spicy Eye Opener Chai Lg,Tea,678.9
+690,5,3.0,57,Spicy Eye Opener Chai Lg,Tea,629.3
+691,8,3.0,57,Spicy Eye Opener Chai Lg,Tea,685.1
+692,3,3.0,56,Spicy Eye Opener Chai Rg,Tea,515.1
+693,5,3.0,56,Spicy Eye Opener Chai Rg,Tea,448.8
+694,8,3.0,56,Spicy Eye Opener Chai Rg,Tea,481.95
+695,3,3.0,65,Sugar Free Vanilla syrup,Flavours,59.2
+696,5,3.0,65,Sugar Free Vanilla syrup,Flavours,155.2
+697,8,3.0,65,Sugar Free Vanilla syrup,Flavours,96.0
+698,3,3.0,20,Sustainably Grown Organic,Packaged Chocolate,45.6
+699,5,3.0,20,Sustainably Grown Organic,Packaged Chocolate,91.2
+700,8,3.0,20,Sustainably Grown Organic,Packaged Chocolate,76.0
+701,3,3.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,988.0
+702,5,3.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1011.75
+703,8,3.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1021.25
+704,3,3.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,780.0
+705,5,3.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,903.75
+706,8,3.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,671.25
+707,3,3.0,16,Traditional Blend Chai,Loose Tea,26.85
+708,5,3.0,16,Traditional Blend Chai,Loose Tea,35.8
+709,8,3.0,16,Traditional Blend Chai,Loose Tea,89.5
+710,3,3.0,53,Traditional Blend Chai Lg,Tea,690.0
+711,5,3.0,53,Traditional Blend Chai Lg,Tea,564.0
+712,8,3.0,53,Traditional Blend Chai Lg,Tea,564.0
+713,3,3.0,52,Traditional Blend Chai Rg,Tea,532.5
+714,5,3.0,52,Traditional Blend Chai Rg,Tea,515.0
+715,8,3.0,52,Traditional Blend Chai Rg,Tea,525.0
+716,3,4.0,73,Almond Croissant,Bakery,393.75
+717,5,4.0,73,Almond Croissant,Bakery,405.0
+718,8,4.0,73,Almond Croissant,Bakery,427.5
+719,3,4.0,1,Brazilian - Organic,Coffee beans,144.0
+720,5,4.0,1,Brazilian - Organic,Coffee beans,306.0
+721,8,4.0,1,Brazilian - Organic,Coffee beans,180.0
+722,3,4.0,27,Brazilian Lg,Coffee,843.5
+723,5,4.0,27,Brazilian Lg,Coffee,840.0
+724,8,4.0,27,Brazilian Lg,Coffee,1004.5
+725,3,4.0,26,Brazilian Rg,Coffee,810.0
+726,5,4.0,26,Brazilian Rg,Coffee,711.0
+727,8,4.0,26,Brazilian Rg,Coffee,774.0
+728,3,4.0,25,Brazilian Sm,Coffee,525.8
+729,5,4.0,25,Brazilian Sm,Coffee,532.4
+730,8,4.0,25,Brazilian Sm,Coffee,569.8
+731,3,4.0,40,Cappuccino,Coffee,971.25
+732,5,4.0,40,Cappuccino,Coffee,903.75
+733,8,4.0,40,Cappuccino,Coffee,945.0
+734,3,4.0,41,Cappuccino Lg,Coffee,1122.0
+735,5,4.0,41,Cappuccino Lg,Coffee,960.5
+736,8,4.0,41,Cappuccino Lg,Coffee,918.0
+737,3,4.0,63,Carmel syrup,Flavours,74.4
+738,5,4.0,63,Carmel syrup,Flavours,154.4
+739,8,4.0,63,Carmel syrup,Flavours,132.0
+740,3,4.0,21,Chili Mayan,Packaged Chocolate,159.96
+741,5,4.0,21,Chili Mayan,Packaged Chocolate,146.63
+742,8,4.0,21,Chili Mayan,Packaged Chocolate,106.64
+743,3,4.0,76,Chocolate Chip Biscotti,Bakery,367.5
+744,5,4.0,76,Chocolate Chip Biscotti,Bakery,451.5
+745,8,4.0,76,Chocolate Chip Biscotti,Bakery,297.5
+746,3,4.0,71,Chocolate Croissant,Bakery,596.25
+747,5,4.0,71,Chocolate Croissant,Bakery,678.75
+748,8,4.0,71,Chocolate Croissant,Bakery,678.75
+749,3,4.0,84,Chocolate syrup,Flavours,80.8
+750,5,4.0,84,Chocolate syrup,Flavours,153.6
+751,8,4.0,84,Chocolate syrup,Flavours,117.6
+752,3,4.0,8,Civet Cat,Coffee beans,360.0
+753,5,4.0,8,Civet Cat,Coffee beans,270.0
+754,8,4.0,8,Civet Cat,Coffee beans,1350.0
+755,3,4.0,5,Columbian Medium Roast,Coffee beans,150.0
+756,5,4.0,5,Columbian Medium Roast,Coffee beans,90.0
+757,8,4.0,5,Columbian Medium Roast,Coffee beans,165.0
+758,3,4.0,30,Columbian Medium Roast Lg,Coffee,696.0
+759,5,4.0,30,Columbian Medium Roast Lg,Coffee,702.0
+760,8,4.0,30,Columbian Medium Roast Lg,Coffee,636.0
+761,3,4.0,29,Columbian Medium Roast Rg,Coffee,722.5
+762,5,4.0,29,Columbian Medium Roast Rg,Coffee,610.0
+763,8,4.0,29,Columbian Medium Roast Rg,Coffee,567.5
+764,3,4.0,28,Columbian Medium Roast Sm,Coffee,502.0
+765,5,4.0,28,Columbian Medium Roast Sm,Coffee,450.0
+766,8,4.0,28,Columbian Medium Roast Sm,Coffee,482.0
+767,3,4.0,70,Cranberry Scone,Bakery,466.9
+768,5,4.0,70,Cranberry Scone,Bakery,495.32
+769,8,4.0,70,Cranberry Scone,Bakery,495.32
+770,3,4.0,75,Croissant,Bakery,374.5
+771,5,4.0,75,Croissant,Bakery,437.5
+772,8,4.0,75,Croissant,Bakery,364.0
+773,3,4.0,19,Dark chocolate,Packaged Chocolate,19.2
+774,5,4.0,19,Dark chocolate,Packaged Chocolate,51.2
+775,8,4.0,19,Dark chocolate,Packaged Chocolate,70.4
+776,3,4.0,59,Dark chocolate Lg,Drinking Chocolate,1449.0
+777,5,4.0,59,Dark chocolate Lg,Drinking Chocolate,1129.5
+778,8,4.0,59,Dark chocolate Lg,Drinking Chocolate,1170.0
+779,3,4.0,58,Dark chocolate Rg,Drinking Chocolate,850.5
+780,5,4.0,58,Dark chocolate Rg,Drinking Chocolate,675.5
+781,8,4.0,58,Dark chocolate Rg,Drinking Chocolate,756.0
+782,3,4.0,14,Earl Grey,Loose Tea,71.6
+783,5,4.0,14,Earl Grey,Loose Tea,62.65
+784,8,4.0,14,Earl Grey,Loose Tea,53.7
+785,3,4.0,51,Earl Grey Lg,Tea,720.0
+786,5,4.0,51,Earl Grey Lg,Tea,729.0
+787,8,4.0,51,Earl Grey Lg,Tea,714.0
+788,3,4.0,50,Earl Grey Rg,Tea,752.5
+789,5,4.0,50,Earl Grey Rg,Tea,622.5
+790,8,4.0,50,Earl Grey Rg,Tea,587.5
+791,3,4.0,13,English Breakfast,Loose Tea,80.55
+792,5,4.0,13,English Breakfast,Loose Tea,80.55
+793,8,4.0,13,English Breakfast,Loose Tea,71.6
+794,3,4.0,49,English Breakfast Lg,Tea,717.0
+795,5,4.0,49,English Breakfast Lg,Tea,657.0
+796,8,4.0,49,English Breakfast Lg,Tea,729.0
+797,3,4.0,48,English Breakfast Rg,Tea,552.5
+798,5,4.0,48,English Breakfast Rg,Tea,717.5
+799,8,4.0,48,English Breakfast Rg,Tea,525.0
+800,3,4.0,3,Espresso Roast,Coffee beans,103.25
+801,5,4.0,3,Espresso Roast,Coffee beans,118.0
+802,8,4.0,3,Espresso Roast,Coffee beans,132.75
+803,3,4.0,37,Espresso shot,Coffee,723.0
+804,5,4.0,37,Espresso shot,Coffee,690.0
+805,8,4.0,37,Espresso shot,Coffee,783.0
+806,3,4.0,6,Ethiopia,Coffee beans,210.0
+807,5,4.0,6,Ethiopia,Coffee beans,231.0
+808,8,4.0,6,Ethiopia,Coffee beans,273.0
+809,3,4.0,33,Ethiopia Lg,Coffee,696.5
+810,5,4.0,33,Ethiopia Lg,Coffee,847.0
+811,8,4.0,33,Ethiopia Lg,Coffee,903.0
+812,3,4.0,32,Ethiopia Rg,Coffee,717.0
+813,5,4.0,32,Ethiopia Rg,Coffee,825.0
+814,8,4.0,32,Ethiopia Rg,Coffee,759.0
+815,3,4.0,31,Ethiopia Sm,Coffee,616.0
+816,5,4.0,31,Ethiopia Sm,Coffee,569.8
+817,8,4.0,31,Ethiopia Sm,Coffee,519.2
+818,3,4.0,74,Ginger Biscotti,Bakery,442.38
+819,5,4.0,74,Ginger Biscotti,Bakery,407.34
+820,8,4.0,74,Ginger Biscotti,Bakery,481.8
+821,3,4.0,72,Ginger Scone,Bakery,462.84
+822,5,4.0,72,Ginger Scone,Bakery,686.14
+823,8,4.0,72,Ginger Scone,Bakery,625.24
+824,3,4.0,10,Guatemalan Sustainably Grown,Coffee beans,50.0
+825,5,4.0,10,Guatemalan Sustainably Grown,Coffee beans,50.0
+826,8,4.0,10,Guatemalan Sustainably Grown,Coffee beans,110.0
+827,3,4.0,69,Hazelnut Biscotti,Bakery,334.75
+828,5,4.0,69,Hazelnut Biscotti,Bakery,357.5
+829,8,4.0,69,Hazelnut Biscotti,Bakery,354.25
+830,3,4.0,64,Hazelnut syrup,Flavours,55.2
+831,5,4.0,64,Hazelnut syrup,Flavours,152.0
+832,8,4.0,64,Hazelnut syrup,Flavours,113.6
+833,3,4.0,82,I Need My Bean! Diner mug,Branded,156.0
+834,5,4.0,82,I Need My Bean! Diner mug,Branded,312.0
+835,8,4.0,82,I Need My Bean! Diner mug,Branded,60.0
+836,3,4.0,83,I Need My Bean! Latte cup,Branded,322.0
+837,5,4.0,83,I Need My Bean! Latte cup,Branded,364.0
+838,8,4.0,83,I Need My Bean! Latte cup,Branded,238.0
+839,3,4.0,81,I Need My Bean! T-shirt,Branded,448.0
+840,5,4.0,81,I Need My Bean! T-shirt,Branded,392.0
+841,8,4.0,81,I Need My Bean! T-shirt,Branded,56.0
+842,3,4.0,7,Jamacian Coffee River,Coffee beans,177.75
+843,5,4.0,7,Jamacian Coffee River,Coffee beans,237.0
+844,8,4.0,7,Jamacian Coffee River,Coffee beans,237.0
+845,3,4.0,36,Jamaican Coffee River Lg,Coffee,937.5
+846,5,4.0,36,Jamaican Coffee River Lg,Coffee,926.25
+847,8,4.0,36,Jamaican Coffee River Lg,Coffee,855.0
+848,3,4.0,35,Jamaican Coffee River Rg,Coffee,945.5
+849,5,4.0,35,Jamaican Coffee River Rg,Coffee,598.3
+850,8,4.0,35,Jamaican Coffee River Rg,Coffee,632.4
+851,3,4.0,34,Jamaican Coffee River Sm,Coffee,526.75
+852,5,4.0,34,Jamaican Coffee River Sm,Coffee,639.45
+853,8,4.0,34,Jamaican Coffee River Sm,Coffee,507.15
+854,3,4.0,79,Jumbo Savory Scone,Bakery,572.18
+855,5,4.0,79,Jumbo Savory Scone,Bakery,656.6
+856,8,4.0,79,Jumbo Savory Scone,Bakery,483.07
+857,3,4.0,38,Latte,Coffee,1020.0
+858,5,4.0,38,Latte,Coffee,971.25
+859,8,4.0,38,Latte,Coffee,956.25
+860,3,4.0,39,Latte Rg,Coffee,1041.25
+861,5,4.0,39,Latte Rg,Coffee,1109.25
+862,8,4.0,39,Latte Rg,Coffee,943.5
+863,3,4.0,11,Lemon Grass,Loose Tea,62.65
+864,5,4.0,11,Lemon Grass,Loose Tea,35.8
+865,8,4.0,11,Lemon Grass,Loose Tea,98.45
+866,3,4.0,43,Lemon Grass Lg,Tea,732.0
+867,5,4.0,43,Lemon Grass Lg,Tea,684.0
+868,8,4.0,43,Lemon Grass Lg,Tea,741.0
+869,3,4.0,42,Lemon Grass Rg,Tea,592.5
+870,5,4.0,42,Lemon Grass Rg,Tea,605.0
+871,8,4.0,42,Lemon Grass Rg,Tea,570.0
+872,3,4.0,17,Morning Sunrise Chai,Loose Tea,76.0
+873,5,4.0,17,Morning Sunrise Chai,Loose Tea,85.5
+874,8,4.0,17,Morning Sunrise Chai,Loose Tea,123.5
+875,3,4.0,55,Morning Sunrise Chai Lg,Tea,992.0
+876,5,4.0,55,Morning Sunrise Chai Lg,Tea,964.0
+877,8,4.0,55,Morning Sunrise Chai Lg,Tea,1000.0
+878,3,4.0,54,Morning Sunrise Chai Rg,Tea,640.0
+879,5,4.0,54,Morning Sunrise Chai Rg,Tea,682.5
+880,8,4.0,54,Morning Sunrise Chai Rg,Tea,680.0
+881,3,4.0,77,Oatmeal Scone,Bakery,339.0
+882,5,4.0,77,Oatmeal Scone,Bakery,312.0
+883,8,4.0,77,Oatmeal Scone,Bakery,279.0
+884,3,4.0,9,Organic Decaf Blend,Coffee beans,157.5
+885,5,4.0,9,Organic Decaf Blend,Coffee beans,360.0
+886,8,4.0,9,Organic Decaf Blend,Coffee beans,337.5
+887,3,4.0,2,Our Old Time Diner Blend,Coffee beans,198.0
+888,5,4.0,2,Our Old Time Diner Blend,Coffee beans,162.0
+889,8,4.0,2,Our Old Time Diner Blend,Coffee beans,234.0
+890,3,4.0,24,Our Old Time Diner Blend Lg,Coffee,753.0
+891,5,4.0,24,Our Old Time Diner Blend Lg,Coffee,567.0
+892,8,4.0,24,Our Old Time Diner Blend Lg,Coffee,735.0
+893,3,4.0,23,Our Old Time Diner Blend Rg,Coffee,595.0
+894,5,4.0,23,Our Old Time Diner Blend Rg,Coffee,660.0
+895,8,4.0,23,Our Old Time Diner Blend Rg,Coffee,627.5
+896,3,4.0,22,Our Old Time Diner Blend Sm,Coffee,516.0
+897,5,4.0,22,Our Old Time Diner Blend Sm,Coffee,440.0
+898,8,4.0,22,Our Old Time Diner Blend Sm,Coffee,522.0
+899,5,4.0,87,Ouro Brasileiro shot,Coffee,699.0
+900,8,4.0,87,Ouro Brasileiro shot,Coffee,951.0
+901,3,4.0,12,Peppermint,Loose Tea,71.6
+902,5,4.0,12,Peppermint,Loose Tea,62.65
+903,8,4.0,12,Peppermint,Loose Tea,107.4
+904,3,4.0,45,Peppermint Lg,Tea,645.0
+905,5,4.0,45,Peppermint Lg,Tea,900.0
+906,8,4.0,45,Peppermint Lg,Tea,693.0
+907,3,4.0,44,Peppermint Rg,Tea,702.5
+908,5,4.0,44,Peppermint Rg,Tea,625.0
+909,8,4.0,44,Peppermint Rg,Tea,560.0
+910,3,4.0,4,Primo Espresso Roast,Coffee beans,143.15
+911,5,4.0,4,Primo Espresso Roast,Coffee beans,81.8
+912,8,4.0,4,Primo Espresso Roast,Coffee beans,204.5
+913,3,4.0,78,Scottish Cream Scone ,Bakery,504.0
+914,5,4.0,78,Scottish Cream Scone ,Bakery,472.5
+915,8,4.0,78,Scottish Cream Scone ,Bakery,603.0
+916,3,4.0,15,Serenity Green Tea,Loose Tea,55.5
+917,5,4.0,15,Serenity Green Tea,Loose Tea,83.25
+918,8,4.0,15,Serenity Green Tea,Loose Tea,92.5
+919,3,4.0,47,Serenity Green Tea Lg,Tea,777.0
+920,5,4.0,47,Serenity Green Tea Lg,Tea,639.0
+921,8,4.0,47,Serenity Green Tea Lg,Tea,648.0
+922,3,4.0,46,Serenity Green Tea Rg,Tea,602.5
+923,5,4.0,46,Serenity Green Tea Rg,Tea,602.5
+924,8,4.0,46,Serenity Green Tea Rg,Tea,722.5
+925,3,4.0,18,Spicy Eye Opener Chai,Loose Tea,87.6
+926,5,4.0,18,Spicy Eye Opener Chai,Loose Tea,76.65
+927,8,4.0,18,Spicy Eye Opener Chai,Loose Tea,65.7
+928,3,4.0,57,Spicy Eye Opener Chai Lg,Tea,846.3
+929,5,4.0,57,Spicy Eye Opener Chai Lg,Tea,750.2
+930,8,4.0,57,Spicy Eye Opener Chai Lg,Tea,756.4
+931,3,4.0,56,Spicy Eye Opener Chai Rg,Tea,668.1
+932,5,4.0,56,Spicy Eye Opener Chai Rg,Tea,550.8
+933,8,4.0,56,Spicy Eye Opener Chai Rg,Tea,568.65
+934,3,4.0,65,Sugar Free Vanilla syrup,Flavours,77.6
+935,5,4.0,65,Sugar Free Vanilla syrup,Flavours,186.4
+936,8,4.0,65,Sugar Free Vanilla syrup,Flavours,120.8
+937,3,4.0,20,Sustainably Grown Organic,Packaged Chocolate,68.4
+938,5,4.0,20,Sustainably Grown Organic,Packaged Chocolate,114.0
+939,8,4.0,20,Sustainably Grown Organic,Packaged Chocolate,136.8
+940,3,4.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1254.0
+941,5,4.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1007.0
+942,8,4.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1230.25
+943,3,4.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,1031.25
+944,5,4.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,813.75
+945,8,4.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,900.0
+946,3,4.0,16,Traditional Blend Chai,Loose Tea,53.7
+947,5,4.0,16,Traditional Blend Chai,Loose Tea,53.7
+948,8,4.0,16,Traditional Blend Chai,Loose Tea,116.35
+949,3,4.0,53,Traditional Blend Chai Lg,Tea,777.0
+950,5,4.0,53,Traditional Blend Chai Lg,Tea,630.0
+951,8,4.0,53,Traditional Blend Chai Lg,Tea,831.0
+952,3,4.0,52,Traditional Blend Chai Rg,Tea,685.0
+953,5,4.0,52,Traditional Blend Chai Rg,Tea,635.0
+954,8,4.0,52,Traditional Blend Chai Rg,Tea,635.0
+955,3,5.0,73,Almond Croissant,Bakery,562.5
+956,5,5.0,73,Almond Croissant,Bakery,543.75
+957,8,5.0,73,Almond Croissant,Bakery,551.25
+958,3,5.0,1,Brazilian - Organic,Coffee beans,144.0
+959,5,5.0,1,Brazilian - Organic,Coffee beans,342.0
+960,8,5.0,1,Brazilian - Organic,Coffee beans,360.0
+961,3,5.0,27,Brazilian Lg,Coffee,1109.5
+962,5,5.0,27,Brazilian Lg,Coffee,1032.5
+963,8,5.0,27,Brazilian Lg,Coffee,1211.0
+964,3,5.0,26,Brazilian Rg,Coffee,924.0
+965,5,5.0,26,Brazilian Rg,Coffee,972.0
+966,8,5.0,26,Brazilian Rg,Coffee,987.0
+967,3,5.0,25,Brazilian Sm,Coffee,679.8
+968,5,5.0,25,Brazilian Sm,Coffee,706.2
+969,8,5.0,25,Brazilian Sm,Coffee,728.2
+970,3,5.0,40,Cappuccino,Coffee,1233.75
+971,5,5.0,40,Cappuccino,Coffee,1113.75
+972,8,5.0,40,Cappuccino,Coffee,1286.25
+973,3,5.0,41,Cappuccino Lg,Coffee,1232.5
+974,5,5.0,41,Cappuccino Lg,Coffee,1470.5
+975,8,5.0,41,Cappuccino Lg,Coffee,1232.5
+976,3,5.0,63,Carmel syrup,Flavours,91.2
+977,5,5.0,63,Carmel syrup,Flavours,200.0
+978,8,5.0,63,Carmel syrup,Flavours,168.8
+979,3,5.0,21,Chili Mayan,Packaged Chocolate,159.96
+980,5,5.0,21,Chili Mayan,Packaged Chocolate,133.3
+981,8,5.0,21,Chili Mayan,Packaged Chocolate,146.63
+982,3,5.0,76,Chocolate Chip Biscotti,Bakery,500.5
+983,5,5.0,76,Chocolate Chip Biscotti,Bakery,616.0
+984,8,5.0,76,Chocolate Chip Biscotti,Bakery,381.5
+985,3,5.0,71,Chocolate Croissant,Bakery,877.5
+986,5,5.0,71,Chocolate Croissant,Bakery,881.25
+987,8,5.0,71,Chocolate Croissant,Bakery,896.25
+988,3,5.0,84,Chocolate syrup,Flavours,124.8
+989,5,5.0,84,Chocolate syrup,Flavours,196.8
+990,8,5.0,84,Chocolate syrup,Flavours,150.4
+991,3,5.0,8,Civet Cat,Coffee beans,450.0
+992,5,5.0,8,Civet Cat,Coffee beans,540.0
+993,8,5.0,8,Civet Cat,Coffee beans,1440.0
+994,3,5.0,5,Columbian Medium Roast,Coffee beans,270.0
+995,5,5.0,5,Columbian Medium Roast,Coffee beans,150.0
+996,8,5.0,5,Columbian Medium Roast,Coffee beans,225.0
+997,3,5.0,30,Columbian Medium Roast Lg,Coffee,1005.0
+998,5,5.0,30,Columbian Medium Roast Lg,Coffee,933.0
+999,8,5.0,30,Columbian Medium Roast Lg,Coffee,924.0
+1000,3,5.0,29,Columbian Medium Roast Rg,Coffee,902.5
+1001,5,5.0,29,Columbian Medium Roast Rg,Coffee,845.0
+1002,8,5.0,29,Columbian Medium Roast Rg,Coffee,807.5
+1003,3,5.0,28,Columbian Medium Roast Sm,Coffee,708.0
+1004,5,5.0,28,Columbian Medium Roast Sm,Coffee,508.0
+1005,8,5.0,28,Columbian Medium Roast Sm,Coffee,590.0
+1006,3,5.0,70,Cranberry Scone,Bakery,617.12
+1007,5,5.0,70,Cranberry Scone,Bakery,617.12
+1008,8,5.0,70,Cranberry Scone,Bakery,645.54
+1009,3,5.0,75,Croissant,Bakery,441.0
+1010,5,5.0,75,Croissant,Bakery,591.5
+1011,8,5.0,75,Croissant,Bakery,490.0
+1012,3,5.0,19,Dark chocolate,Packaged Chocolate,25.6
+1013,5,5.0,19,Dark chocolate,Packaged Chocolate,64.0
+1014,8,5.0,19,Dark chocolate,Packaged Chocolate,64.0
+1015,3,5.0,59,Dark chocolate Lg,Drinking Chocolate,1804.5
+1016,5,5.0,59,Dark chocolate Lg,Drinking Chocolate,1431.0
+1017,8,5.0,59,Dark chocolate Lg,Drinking Chocolate,1381.5
+1018,3,5.0,58,Dark chocolate Rg,Drinking Chocolate,1144.5
+1019,5,5.0,58,Dark chocolate Rg,Drinking Chocolate,990.5
+1020,8,5.0,58,Dark chocolate Rg,Drinking Chocolate,990.5
+1021,3,5.0,14,Earl Grey,Loose Tea,44.75
+1022,5,5.0,14,Earl Grey,Loose Tea,62.65
+1023,8,5.0,14,Earl Grey,Loose Tea,107.4
+1024,3,5.0,51,Earl Grey Lg,Tea,969.0
+1025,5,5.0,51,Earl Grey Lg,Tea,987.0
+1026,8,5.0,51,Earl Grey Lg,Tea,831.0
+1027,3,5.0,50,Earl Grey Rg,Tea,985.0
+1028,5,5.0,50,Earl Grey Rg,Tea,870.0
+1029,8,5.0,50,Earl Grey Rg,Tea,832.5
+1030,3,5.0,13,English Breakfast,Loose Tea,125.3
+1031,5,5.0,13,English Breakfast,Loose Tea,89.5
+1032,8,5.0,13,English Breakfast,Loose Tea,107.4
+1033,3,5.0,49,English Breakfast Lg,Tea,924.0
+1034,5,5.0,49,English Breakfast Lg,Tea,987.0
+1035,8,5.0,49,English Breakfast Lg,Tea,1095.0
+1036,3,5.0,48,English Breakfast Rg,Tea,737.5
+1037,5,5.0,48,English Breakfast Rg,Tea,840.0
+1038,8,5.0,48,English Breakfast Rg,Tea,720.0
+1039,3,5.0,3,Espresso Roast,Coffee beans,177.0
+1040,5,5.0,3,Espresso Roast,Coffee beans,147.5
+1041,8,5.0,3,Espresso Roast,Coffee beans,250.75
+1042,3,5.0,37,Espresso shot,Coffee,1002.0
+1043,5,5.0,37,Espresso shot,Coffee,870.0
+1044,8,5.0,37,Espresso shot,Coffee,876.0
+1045,3,5.0,6,Ethiopia,Coffee beans,315.0
+1046,5,5.0,6,Ethiopia,Coffee beans,378.0
+1047,8,5.0,6,Ethiopia,Coffee beans,315.0
+1048,3,5.0,33,Ethiopia Lg,Coffee,1116.5
+1049,5,5.0,33,Ethiopia Lg,Coffee,980.0
+1050,8,5.0,33,Ethiopia Lg,Coffee,1200.5
+1051,3,5.0,32,Ethiopia Rg,Coffee,909.0
+1052,5,5.0,32,Ethiopia Rg,Coffee,963.0
+1053,8,5.0,32,Ethiopia Rg,Coffee,1020.0
+1054,3,5.0,31,Ethiopia Sm,Coffee,818.4
+1055,5,5.0,31,Ethiopia Sm,Coffee,732.6
+1056,8,5.0,31,Ethiopia Sm,Coffee,596.2
+1057,3,5.0,74,Ginger Biscotti,Bakery,696.42
+1058,5,5.0,74,Ginger Biscotti,Bakery,477.42
+1059,8,5.0,74,Ginger Biscotti,Bakery,652.62
+1060,3,5.0,72,Ginger Scone,Bakery,580.58
+1061,5,5.0,72,Ginger Scone,Bakery,868.84
+1062,8,5.0,72,Ginger Scone,Bakery,824.18
+1063,3,5.0,10,Guatemalan Sustainably Grown,Coffee beans,100.0
+1064,5,5.0,10,Guatemalan Sustainably Grown,Coffee beans,80.0
+1065,8,5.0,10,Guatemalan Sustainably Grown,Coffee beans,110.0
+1066,3,5.0,69,Hazelnut Biscotti,Bakery,468.0
+1067,5,5.0,69,Hazelnut Biscotti,Bakery,523.25
+1068,8,5.0,69,Hazelnut Biscotti,Bakery,458.25
+1069,3,5.0,64,Hazelnut syrup,Flavours,84.8
+1070,5,5.0,64,Hazelnut syrup,Flavours,187.2
+1071,8,5.0,64,Hazelnut syrup,Flavours,164.0
+1072,3,5.0,82,I Need My Bean! Diner mug,Branded,108.0
+1073,5,5.0,82,I Need My Bean! Diner mug,Branded,396.0
+1074,8,5.0,82,I Need My Bean! Diner mug,Branded,84.0
+1075,3,5.0,83,I Need My Bean! Latte cup,Branded,238.0
+1076,5,5.0,83,I Need My Bean! Latte cup,Branded,406.0
+1077,8,5.0,83,I Need My Bean! Latte cup,Branded,210.0
+1078,3,5.0,81,I Need My Bean! T-shirt,Branded,672.0
+1079,5,5.0,81,I Need My Bean! T-shirt,Branded,532.0
+1080,8,5.0,81,I Need My Bean! T-shirt,Branded,224.0
+1081,3,5.0,7,Jamacian Coffee River,Coffee beans,237.0
+1082,5,5.0,7,Jamacian Coffee River,Coffee beans,138.25
+1083,8,5.0,7,Jamacian Coffee River,Coffee beans,316.0
+1084,3,5.0,36,Jamaican Coffee River Lg,Coffee,1305.0
+1085,5,5.0,36,Jamaican Coffee River Lg,Coffee,1327.5
+1086,8,5.0,36,Jamaican Coffee River Lg,Coffee,1061.25
+1087,3,5.0,35,Jamaican Coffee River Rg,Coffee,1085.0
+1088,5,5.0,35,Jamaican Coffee River Rg,Coffee,864.9
+1089,8,5.0,35,Jamaican Coffee River Rg,Coffee,858.7
+1090,3,5.0,34,Jamaican Coffee River Sm,Coffee,752.15
+1091,5,5.0,34,Jamaican Coffee River Sm,Coffee,840.35
+1092,8,5.0,34,Jamaican Coffee River Sm,Coffee,644.35
+1093,3,5.0,79,Jumbo Savory Scone,Bakery,759.78
+1094,5,5.0,79,Jumbo Savory Scone,Bakery,745.71
+1095,8,5.0,79,Jumbo Savory Scone,Bakery,647.22
+1096,3,5.0,38,Latte,Coffee,1365.0
+1097,5,5.0,38,Latte,Coffee,1271.25
+1098,8,5.0,38,Latte,Coffee,1252.5
+1099,3,5.0,39,Latte Rg,Coffee,1360.0
+1100,5,5.0,39,Latte Rg,Coffee,1445.0
+1101,8,5.0,39,Latte Rg,Coffee,1525.75
+1102,3,5.0,11,Lemon Grass,Loose Tea,80.55
+1103,5,5.0,11,Lemon Grass,Loose Tea,62.65
+1104,8,5.0,11,Lemon Grass,Loose Tea,179.0
+1105,3,5.0,43,Lemon Grass Lg,Tea,915.0
+1106,5,5.0,43,Lemon Grass Lg,Tea,906.0
+1107,8,5.0,43,Lemon Grass Lg,Tea,1011.0
+1108,3,5.0,42,Lemon Grass Rg,Tea,915.0
+1109,5,5.0,42,Lemon Grass Rg,Tea,822.5
+1110,8,5.0,42,Lemon Grass Rg,Tea,815.0
+1111,3,5.0,17,Morning Sunrise Chai,Loose Tea,114.0
+1112,5,5.0,17,Morning Sunrise Chai,Loose Tea,95.0
+1113,8,5.0,17,Morning Sunrise Chai,Loose Tea,152.0
+1114,3,5.0,55,Morning Sunrise Chai Lg,Tea,1448.0
+1115,5,5.0,55,Morning Sunrise Chai Lg,Tea,1256.0
+1116,8,5.0,55,Morning Sunrise Chai Lg,Tea,1256.0
+1117,3,5.0,54,Morning Sunrise Chai Rg,Tea,872.5
+1118,5,5.0,54,Morning Sunrise Chai Rg,Tea,835.0
+1119,8,5.0,54,Morning Sunrise Chai Rg,Tea,850.0
+1120,3,5.0,77,Oatmeal Scone,Bakery,435.0
+1121,5,5.0,77,Oatmeal Scone,Bakery,438.0
+1122,8,5.0,77,Oatmeal Scone,Bakery,354.0
+1123,3,5.0,9,Organic Decaf Blend,Coffee beans,225.0
+1124,5,5.0,9,Organic Decaf Blend,Coffee beans,292.5
+1125,8,5.0,9,Organic Decaf Blend,Coffee beans,382.5
+1126,3,5.0,2,Our Old Time Diner Blend,Coffee beans,198.0
+1127,5,5.0,2,Our Old Time Diner Blend,Coffee beans,162.0
+1128,8,5.0,2,Our Old Time Diner Blend,Coffee beans,378.0
+1129,3,5.0,24,Our Old Time Diner Blend Lg,Coffee,1092.0
+1130,5,5.0,24,Our Old Time Diner Blend Lg,Coffee,780.0
+1131,8,5.0,24,Our Old Time Diner Blend Lg,Coffee,792.0
+1132,3,5.0,23,Our Old Time Diner Blend Rg,Coffee,920.0
+1133,5,5.0,23,Our Old Time Diner Blend Rg,Coffee,837.5
+1134,8,5.0,23,Our Old Time Diner Blend Rg,Coffee,785.0
+1135,3,5.0,22,Our Old Time Diner Blend Sm,Coffee,762.0
+1136,5,5.0,22,Our Old Time Diner Blend Sm,Coffee,622.0
+1137,8,5.0,22,Our Old Time Diner Blend Sm,Coffee,700.0
+1138,5,5.0,87,Ouro Brasileiro shot,Coffee,909.0
+1139,8,5.0,87,Ouro Brasileiro shot,Coffee,1158.0
+1140,3,5.0,12,Peppermint,Loose Tea,89.5
+1141,5,5.0,12,Peppermint,Loose Tea,71.6
+1142,8,5.0,12,Peppermint,Loose Tea,98.45
+1143,3,5.0,45,Peppermint Lg,Tea,1023.0
+1144,5,5.0,45,Peppermint Lg,Tea,1011.0
+1145,8,5.0,45,Peppermint Lg,Tea,864.0
+1146,3,5.0,44,Peppermint Rg,Tea,980.0
+1147,5,5.0,44,Peppermint Rg,Tea,892.5
+1148,8,5.0,44,Peppermint Rg,Tea,775.0
+1149,3,5.0,4,Primo Espresso Roast,Coffee beans,163.6
+1150,5,5.0,4,Primo Espresso Roast,Coffee beans,163.6
+1151,8,5.0,4,Primo Espresso Roast,Coffee beans,306.75
+1152,3,5.0,78,Scottish Cream Scone ,Bakery,639.0
+1153,5,5.0,78,Scottish Cream Scone ,Bakery,598.5
+1154,8,5.0,78,Scottish Cream Scone ,Bakery,823.5
+1155,3,5.0,15,Serenity Green Tea,Loose Tea,92.5
+1156,5,5.0,15,Serenity Green Tea,Loose Tea,138.75
+1157,8,5.0,15,Serenity Green Tea,Loose Tea,83.25
+1158,3,5.0,47,Serenity Green Tea Lg,Tea,1023.0
+1159,5,5.0,47,Serenity Green Tea Lg,Tea,957.0
+1160,8,5.0,47,Serenity Green Tea Lg,Tea,987.0
+1161,3,5.0,46,Serenity Green Tea Rg,Tea,745.0
+1162,5,5.0,46,Serenity Green Tea Rg,Tea,822.5
+1163,8,5.0,46,Serenity Green Tea Rg,Tea,870.0
+1164,3,5.0,18,Spicy Eye Opener Chai,Loose Tea,98.55
+1165,5,5.0,18,Spicy Eye Opener Chai,Loose Tea,98.55
+1166,8,5.0,18,Spicy Eye Opener Chai,Loose Tea,54.75
+1167,3,5.0,57,Spicy Eye Opener Chai Lg,Tea,1147.0
+1168,5,5.0,57,Spicy Eye Opener Chai Lg,Tea,1004.4
+1169,8,5.0,57,Spicy Eye Opener Chai Lg,Tea,961.0
+1170,3,5.0,56,Spicy Eye Opener Chai Rg,Tea,912.9
+1171,5,5.0,56,Spicy Eye Opener Chai Rg,Tea,744.6
+1172,8,5.0,56,Spicy Eye Opener Chai Rg,Tea,787.95
+1173,3,5.0,65,Sugar Free Vanilla syrup,Flavours,103.2
+1174,5,5.0,65,Sugar Free Vanilla syrup,Flavours,267.2
+1175,8,5.0,65,Sugar Free Vanilla syrup,Flavours,167.2
+1176,3,5.0,20,Sustainably Grown Organic,Packaged Chocolate,91.2
+1177,5,5.0,20,Sustainably Grown Organic,Packaged Chocolate,159.6
+1178,8,5.0,20,Sustainably Grown Organic,Packaged Chocolate,136.8
+1179,3,5.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1762.25
+1180,5,5.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1477.25
+1181,8,5.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1681.5
+1182,3,5.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,1260.0
+1183,5,5.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,1256.25
+1184,8,5.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,1140.0
+1185,3,5.0,16,Traditional Blend Chai,Loose Tea,44.75
+1186,5,5.0,16,Traditional Blend Chai,Loose Tea,98.45
+1187,8,5.0,16,Traditional Blend Chai,Loose Tea,205.85
+1188,3,5.0,53,Traditional Blend Chai Lg,Tea,975.0
+1189,5,5.0,53,Traditional Blend Chai Lg,Tea,828.0
+1190,8,5.0,53,Traditional Blend Chai Lg,Tea,939.0
+1191,3,5.0,52,Traditional Blend Chai Rg,Tea,870.0
+1192,5,5.0,52,Traditional Blend Chai Rg,Tea,807.5
+1193,8,5.0,52,Traditional Blend Chai Rg,Tea,932.5
+1194,3,6.0,73,Almond Croissant,Bakery,348.75
+1195,5,6.0,73,Almond Croissant,Bakery,408.75
+1196,8,6.0,73,Almond Croissant,Bakery,378.75
+1197,3,6.0,1,Brazilian - Organic,Coffee beans,198.0
+1198,5,6.0,1,Brazilian - Organic,Coffee beans,234.0
+1199,8,6.0,1,Brazilian - Organic,Coffee beans,234.0
+1200,3,6.0,27,Brazilian Lg,Coffee,728.0
+1201,5,6.0,27,Brazilian Lg,Coffee,661.5
+1202,8,6.0,27,Brazilian Lg,Coffee,780.5
+1203,3,6.0,26,Brazilian Rg,Coffee,669.0
+1204,5,6.0,26,Brazilian Rg,Coffee,594.0
+1205,8,6.0,26,Brazilian Rg,Coffee,615.0
+1206,3,6.0,25,Brazilian Sm,Coffee,497.2
+1207,5,6.0,25,Brazilian Sm,Coffee,429.0
+1208,8,6.0,25,Brazilian Sm,Coffee,561.0
+1209,3,6.0,40,Cappuccino,Coffee,738.75
+1210,5,6.0,40,Cappuccino,Coffee,750.0
+1211,8,6.0,40,Cappuccino,Coffee,907.5
+1212,3,6.0,41,Cappuccino Lg,Coffee,862.75
+1213,5,6.0,41,Cappuccino Lg,Coffee,956.25
+1214,8,6.0,41,Cappuccino Lg,Coffee,947.75
+1215,3,6.0,63,Carmel syrup,Flavours,88.0
+1216,5,6.0,63,Carmel syrup,Flavours,123.2
+1217,8,6.0,63,Carmel syrup,Flavours,133.6
+1218,3,6.0,21,Chili Mayan,Packaged Chocolate,79.98
+1219,5,6.0,21,Chili Mayan,Packaged Chocolate,146.63
+1220,8,6.0,21,Chili Mayan,Packaged Chocolate,106.64
+1221,3,6.0,76,Chocolate Chip Biscotti,Bakery,353.5
+1222,5,6.0,76,Chocolate Chip Biscotti,Bakery,441.0
+1223,8,6.0,76,Chocolate Chip Biscotti,Bakery,322.0
+1224,3,6.0,71,Chocolate Croissant,Bakery,656.25
+1225,5,6.0,71,Chocolate Croissant,Bakery,611.25
+1226,8,6.0,71,Chocolate Croissant,Bakery,656.25
+1227,3,6.0,84,Chocolate syrup,Flavours,98.4
+1228,5,6.0,84,Chocolate syrup,Flavours,139.2
+1229,8,6.0,84,Chocolate syrup,Flavours,120.0
+1230,3,6.0,8,Civet Cat,Coffee beans,405.0
+1231,5,6.0,8,Civet Cat,Coffee beans,495.0
+1232,8,6.0,8,Civet Cat,Coffee beans,1620.0
+1233,3,6.0,5,Columbian Medium Roast,Coffee beans,135.0
+1234,5,6.0,5,Columbian Medium Roast,Coffee beans,75.0
+1235,8,6.0,5,Columbian Medium Roast,Coffee beans,120.0
+1236,3,6.0,30,Columbian Medium Roast Lg,Coffee,597.0
+1237,5,6.0,30,Columbian Medium Roast Lg,Coffee,651.0
+1238,8,6.0,30,Columbian Medium Roast Lg,Coffee,624.0
+1239,3,6.0,29,Columbian Medium Roast Rg,Coffee,600.0
+1240,5,6.0,29,Columbian Medium Roast Rg,Coffee,602.5
+1241,8,6.0,29,Columbian Medium Roast Rg,Coffee,530.0
+1242,3,6.0,28,Columbian Medium Roast Sm,Coffee,458.0
+1243,5,6.0,28,Columbian Medium Roast Sm,Coffee,364.0
+1244,8,6.0,28,Columbian Medium Roast Sm,Coffee,460.0
+1245,3,6.0,70,Cranberry Scone,Bakery,385.7
+1246,5,6.0,70,Cranberry Scone,Bakery,393.82
+1247,8,6.0,70,Cranberry Scone,Bakery,462.84
+1248,3,6.0,75,Croissant,Bakery,360.5
+1249,5,6.0,75,Croissant,Bakery,413.0
+1250,8,6.0,75,Croissant,Bakery,350.0
+1251,3,6.0,19,Dark chocolate,Packaged Chocolate,12.8
+1252,5,6.0,19,Dark chocolate,Packaged Chocolate,25.6
+1253,8,6.0,19,Dark chocolate,Packaged Chocolate,83.2
+1254,3,6.0,59,Dark chocolate Lg,Drinking Chocolate,1188.0
+1255,5,6.0,59,Dark chocolate Lg,Drinking Chocolate,985.5
+1256,8,6.0,59,Dark chocolate Lg,Drinking Chocolate,976.5
+1257,3,6.0,58,Dark chocolate Rg,Drinking Chocolate,742.0
+1258,5,6.0,58,Dark chocolate Rg,Drinking Chocolate,602.0
+1259,8,6.0,58,Dark chocolate Rg,Drinking Chocolate,703.5
+1260,3,6.0,14,Earl Grey,Loose Tea,44.75
+1261,5,6.0,14,Earl Grey,Loose Tea,35.8
+1262,8,6.0,14,Earl Grey,Loose Tea,107.4
+1263,3,6.0,51,Earl Grey Lg,Tea,681.0
+1264,5,6.0,51,Earl Grey Lg,Tea,669.0
+1265,8,6.0,51,Earl Grey Lg,Tea,687.0
+1266,3,6.0,50,Earl Grey Rg,Tea,647.5
+1267,5,6.0,50,Earl Grey Rg,Tea,567.5
+1268,8,6.0,50,Earl Grey Rg,Tea,625.0
+1269,3,6.0,13,English Breakfast,Loose Tea,116.35
+1270,5,6.0,13,English Breakfast,Loose Tea,89.5
+1271,8,6.0,13,English Breakfast,Loose Tea,62.65
+1272,3,6.0,49,English Breakfast Lg,Tea,615.0
+1273,5,6.0,49,English Breakfast Lg,Tea,576.0
+1274,8,6.0,49,English Breakfast Lg,Tea,798.0
+1275,3,6.0,48,English Breakfast Rg,Tea,500.0
+1276,5,6.0,48,English Breakfast Rg,Tea,590.0
+1277,8,6.0,48,English Breakfast Rg,Tea,602.5
+1278,3,6.0,3,Espresso Roast,Coffee beans,147.5
+1279,5,6.0,3,Espresso Roast,Coffee beans,103.25
+1280,8,6.0,3,Espresso Roast,Coffee beans,221.25
+1281,3,6.0,37,Espresso shot,Coffee,678.0
+1282,5,6.0,37,Espresso shot,Coffee,612.0
+1283,8,6.0,37,Espresso shot,Coffee,744.0
+1284,3,6.0,6,Ethiopia,Coffee beans,399.0
+1285,5,6.0,6,Ethiopia,Coffee beans,168.0
+1286,8,6.0,6,Ethiopia,Coffee beans,210.0
+1287,3,6.0,33,Ethiopia Lg,Coffee,654.5
+1288,5,6.0,33,Ethiopia Lg,Coffee,777.0
+1289,8,6.0,33,Ethiopia Lg,Coffee,885.5
+1290,3,6.0,32,Ethiopia Rg,Coffee,714.0
+1291,5,6.0,32,Ethiopia Rg,Coffee,741.0
+1292,8,6.0,32,Ethiopia Rg,Coffee,738.0
+1293,3,6.0,31,Ethiopia Sm,Coffee,563.2
+1294,5,6.0,31,Ethiopia Sm,Coffee,468.6
+1295,8,6.0,31,Ethiopia Sm,Coffee,459.8
+1296,3,6.0,74,Ginger Biscotti,Bakery,451.14
+1297,5,6.0,74,Ginger Biscotti,Bakery,350.4
+1298,8,6.0,74,Ginger Biscotti,Bakery,473.04
+1299,3,6.0,72,Ginger Scone,Bakery,418.18
+1300,5,6.0,72,Ginger Scone,Bakery,438.48
+1301,8,6.0,72,Ginger Scone,Bakery,393.82
+1302,3,6.0,10,Guatemalan Sustainably Grown,Coffee beans,80.0
+1303,5,6.0,10,Guatemalan Sustainably Grown,Coffee beans,40.0
+1304,8,6.0,10,Guatemalan Sustainably Grown,Coffee beans,70.0
+1305,3,6.0,69,Hazelnut Biscotti,Bakery,347.75
+1306,5,6.0,69,Hazelnut Biscotti,Bakery,370.5
+1307,8,6.0,69,Hazelnut Biscotti,Bakery,338.0
+1308,3,6.0,64,Hazelnut syrup,Flavours,62.4
+1309,5,6.0,64,Hazelnut syrup,Flavours,120.0
+1310,8,6.0,64,Hazelnut syrup,Flavours,120.8
+1311,3,6.0,82,I Need My Bean! Diner mug,Branded,168.0
+1312,5,6.0,82,I Need My Bean! Diner mug,Branded,348.0
+1313,8,6.0,82,I Need My Bean! Diner mug,Branded,72.0
+1314,3,6.0,83,I Need My Bean! Latte cup,Branded,266.0
+1315,5,6.0,83,I Need My Bean! Latte cup,Branded,392.0
+1316,8,6.0,83,I Need My Bean! Latte cup,Branded,182.0
+1317,3,6.0,81,I Need My Bean! T-shirt,Branded,672.0
+1318,5,6.0,81,I Need My Bean! T-shirt,Branded,280.0
+1319,8,6.0,81,I Need My Bean! T-shirt,Branded,84.0
+1320,3,6.0,7,Jamacian Coffee River,Coffee beans,177.75
+1321,5,6.0,7,Jamacian Coffee River,Coffee beans,79.0
+1322,8,6.0,7,Jamacian Coffee River,Coffee beans,98.75
+1323,3,6.0,36,Jamaican Coffee River Lg,Coffee,813.75
+1324,5,6.0,36,Jamaican Coffee River Lg,Coffee,881.25
+1325,8,6.0,36,Jamaican Coffee River Lg,Coffee,926.25
+1326,3,6.0,35,Jamaican Coffee River Rg,Coffee,740.9
+1327,5,6.0,35,Jamaican Coffee River Rg,Coffee,564.2
+1328,8,6.0,35,Jamaican Coffee River Rg,Coffee,744.0
+1329,3,6.0,34,Jamaican Coffee River Sm,Coffee,482.65
+1330,5,6.0,34,Jamaican Coffee River Sm,Coffee,494.9
+1331,8,6.0,34,Jamaican Coffee River Sm,Coffee,541.45
+1332,3,6.0,79,Jumbo Savory Scone,Bakery,483.07
+1333,5,6.0,79,Jumbo Savory Scone,Bakery,487.76
+1334,8,6.0,79,Jumbo Savory Scone,Bakery,422.1
+1335,3,6.0,38,Latte,Coffee,806.25
+1336,5,6.0,38,Latte,Coffee,821.25
+1337,8,6.0,38,Latte,Coffee,952.5
+1338,3,6.0,39,Latte Rg,Coffee,994.5
+1339,5,6.0,39,Latte Rg,Coffee,986.0
+1340,8,6.0,39,Latte Rg,Coffee,1024.25
+1341,3,6.0,11,Lemon Grass,Loose Tea,98.45
+1342,5,6.0,11,Lemon Grass,Loose Tea,71.6
+1343,8,6.0,11,Lemon Grass,Loose Tea,107.4
+1344,3,6.0,43,Lemon Grass Lg,Tea,588.0
+1345,5,6.0,43,Lemon Grass Lg,Tea,531.0
+1346,8,6.0,43,Lemon Grass Lg,Tea,687.0
+1347,3,6.0,42,Lemon Grass Rg,Tea,587.5
+1348,5,6.0,42,Lemon Grass Rg,Tea,535.0
+1349,8,6.0,42,Lemon Grass Rg,Tea,550.0
+1350,3,6.0,17,Morning Sunrise Chai,Loose Tea,104.5
+1351,5,6.0,17,Morning Sunrise Chai,Loose Tea,76.0
+1352,8,6.0,17,Morning Sunrise Chai,Loose Tea,152.0
+1353,3,6.0,55,Morning Sunrise Chai Lg,Tea,1080.0
+1354,5,6.0,55,Morning Sunrise Chai Lg,Tea,852.0
+1355,8,6.0,55,Morning Sunrise Chai Lg,Tea,924.0
+1356,3,6.0,54,Morning Sunrise Chai Rg,Tea,605.0
+1357,5,6.0,54,Morning Sunrise Chai Rg,Tea,630.0
+1358,8,6.0,54,Morning Sunrise Chai Rg,Tea,622.5
+1359,3,6.0,77,Oatmeal Scone,Bakery,303.0
+1360,5,6.0,77,Oatmeal Scone,Bakery,306.0
+1361,8,6.0,77,Oatmeal Scone,Bakery,255.0
+1362,3,6.0,9,Organic Decaf Blend,Coffee beans,202.5
+1363,5,6.0,9,Organic Decaf Blend,Coffee beans,270.0
+1364,8,6.0,9,Organic Decaf Blend,Coffee beans,337.5
+1365,3,6.0,2,Our Old Time Diner Blend,Coffee beans,162.0
+1366,5,6.0,2,Our Old Time Diner Blend,Coffee beans,90.0
+1367,8,6.0,2,Our Old Time Diner Blend,Coffee beans,270.0
+1368,3,6.0,24,Our Old Time Diner Blend Lg,Coffee,657.0
+1369,5,6.0,24,Our Old Time Diner Blend Lg,Coffee,516.0
+1370,8,6.0,24,Our Old Time Diner Blend Lg,Coffee,693.0
+1371,3,6.0,23,Our Old Time Diner Blend Rg,Coffee,542.5
+1372,5,6.0,23,Our Old Time Diner Blend Rg,Coffee,492.5
+1373,8,6.0,23,Our Old Time Diner Blend Rg,Coffee,565.0
+1374,3,6.0,22,Our Old Time Diner Blend Sm,Coffee,478.0
+1375,5,6.0,22,Our Old Time Diner Blend Sm,Coffee,422.0
+1376,8,6.0,22,Our Old Time Diner Blend Sm,Coffee,536.0
+1377,5,6.0,87,Ouro Brasileiro shot,Coffee,432.0
+1378,8,6.0,87,Ouro Brasileiro shot,Coffee,729.0
+1379,3,6.0,12,Peppermint,Loose Tea,80.55
+1380,5,6.0,12,Peppermint,Loose Tea,53.7
+1381,8,6.0,12,Peppermint,Loose Tea,98.45
+1382,3,6.0,45,Peppermint Lg,Tea,603.0
+1383,5,6.0,45,Peppermint Lg,Tea,672.0
+1384,8,6.0,45,Peppermint Lg,Tea,633.0
+1385,3,6.0,44,Peppermint Rg,Tea,582.5
+1386,5,6.0,44,Peppermint Rg,Tea,477.5
+1387,8,6.0,44,Peppermint Rg,Tea,545.0
+1388,3,6.0,4,Primo Espresso Roast,Coffee beans,163.6
+1389,5,6.0,4,Primo Espresso Roast,Coffee beans,122.7
+1390,8,6.0,4,Primo Espresso Roast,Coffee beans,224.95
+1391,3,6.0,78,Scottish Cream Scone ,Bakery,400.5
+1392,5,6.0,78,Scottish Cream Scone ,Bakery,405.0
+1393,8,6.0,78,Scottish Cream Scone ,Bakery,580.5
+1394,3,6.0,15,Serenity Green Tea,Loose Tea,46.25
+1395,5,6.0,15,Serenity Green Tea,Loose Tea,83.25
+1396,8,6.0,15,Serenity Green Tea,Loose Tea,37.0
+1397,3,6.0,47,Serenity Green Tea Lg,Tea,669.0
+1398,5,6.0,47,Serenity Green Tea Lg,Tea,537.0
+1399,8,6.0,47,Serenity Green Tea Lg,Tea,663.0
+1400,3,6.0,46,Serenity Green Tea Rg,Tea,575.0
+1401,5,6.0,46,Serenity Green Tea Rg,Tea,477.5
+1402,8,6.0,46,Serenity Green Tea Rg,Tea,632.5
+1403,3,6.0,18,Spicy Eye Opener Chai,Loose Tea,76.65
+1404,5,6.0,18,Spicy Eye Opener Chai,Loose Tea,98.55
+1405,8,6.0,18,Spicy Eye Opener Chai,Loose Tea,87.6
+1406,3,6.0,57,Spicy Eye Opener Chai Lg,Tea,688.2
+1407,5,6.0,57,Spicy Eye Opener Chai Lg,Tea,604.5
+1408,8,6.0,57,Spicy Eye Opener Chai Lg,Tea,682.0
+1409,3,6.0,56,Spicy Eye Opener Chai Rg,Tea,543.15
+1410,5,6.0,56,Spicy Eye Opener Chai Rg,Tea,469.2
+1411,8,6.0,56,Spicy Eye Opener Chai Rg,Tea,517.65
+1412,3,6.0,65,Sugar Free Vanilla syrup,Flavours,97.6
+1413,5,6.0,65,Sugar Free Vanilla syrup,Flavours,183.2
+1414,8,6.0,65,Sugar Free Vanilla syrup,Flavours,146.4
+1415,3,6.0,20,Sustainably Grown Organic,Packaged Chocolate,60.8
+1416,5,6.0,20,Sustainably Grown Organic,Packaged Chocolate,98.8
+1417,8,6.0,20,Sustainably Grown Organic,Packaged Chocolate,121.6
+1418,3,6.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1173.25
+1419,5,6.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,897.75
+1420,8,6.0,61,Sustainably Grown Organic Lg,Drinking Chocolate,1211.25
+1421,3,6.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,836.25
+1422,5,6.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,847.5
+1423,8,6.0,60,Sustainably Grown Organic Rg,Drinking Chocolate,915.0
+1424,3,6.0,16,Traditional Blend Chai,Loose Tea,62.65
+1425,5,6.0,16,Traditional Blend Chai,Loose Tea,62.65
+1426,8,6.0,16,Traditional Blend Chai,Loose Tea,161.1
+1427,3,6.0,53,Traditional Blend Chai Lg,Tea,606.0
+1428,5,6.0,53,Traditional Blend Chai Lg,Tea,543.0
+1429,8,6.0,53,Traditional Blend Chai Lg,Tea,681.0
+1430,3,6.0,52,Traditional Blend Chai Rg,Tea,602.5
+1431,5,6.0,52,Traditional Blend Chai Rg,Tea,540.0
+1432,8,6.0,52,Traditional Blend Chai Rg,Tea,597.5
