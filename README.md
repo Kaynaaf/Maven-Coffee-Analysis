@@ -93,3 +93,6 @@ Gather customer feedback from June to understand the 30.2% drop in orders as dir
 
 
 
+## Caveats & Pitfalls
+1. The data is synthetic & therefore may not reflect consumer behaviour.
+2. Only has transactional data only and not any marketing data leaving much to be desired.
