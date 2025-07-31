@@ -4,8 +4,6 @@ base="light"
 
 primaryColor= "#FF6C00"       
 
-backgroundColor="#FFFFFF"     
-
 secondaryBackgroundColor="#FBF6F2"
 
 textColor="#505050"          
@@ -19,21 +17,21 @@ borderColor= "#FFA366"
 showSidebarBorder = true
 
 chartCategoricalColors = [
-						  "#F38BA0", #redLight
-						  "#CD5656", #redDark
-						  "#9EC6F3",#Blue
-						  "#D4F6FF",#SkyBlue
-						  "#CCD5AE",#Green
-						  "#FAEDCE",#Lime
-						  "#FFF9BD",#yellow
-						  "#FFB38E",#orange
-						  "#C0C9EE",#Purple
-						  "#898AC4",#darkPurple
-						  "#98A1BC", #stone grey
-						  "#A7C1A8", #matcha green
-						  "#FADA7A", #Honey yellow
-						  "#88AB8E", #Camo green
-						  ]
+							  
+				
+				    "#E58606",  # Orange
+				    "#5D69B1",  # Indigo
+				    "#52BCA3",  # Teal
+				    "#99C945",  # Lime Green
+				    "#CC61B0",  # Magenta
+				    "#24796C",  # Dark Teal
+				    "#DAA51B",  # Mustard Yellow
+				    "#2F8AC4",  # Blue
+				    "#764E9F",  # Purple
+				    "#ED645A",  # Coral Red
+				    "#CC3A8E",  # Pink
+				    "#A5AA99"   # Grey
+				]			
 
 showWidgetBorder = true
 

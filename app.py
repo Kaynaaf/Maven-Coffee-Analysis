@@ -1,12 +1,14 @@
-
 import pandas as pd
-import pyarrow.parquet as pq
 import streamlit as st
 import plotly.express as px
+
 
 #---------STREAMLIT PAGE CONFIG---------
 st.set_page_config(layout="wide")
 st.sidebar.title(":material/space_dashboard: Dashboard Filters")
+
+
+
 
 
 #------LOAD REVENUE DATA---------------
@@ -15,17 +17,22 @@ st.sidebar.title(":material/space_dashboard: Dashboard Filters")
 def load_data():
     return pd.read_csv('data/coffee_revenue_monthly.csv')
 df = load_data()
-
-
-
 df['month']=df['month'].astype('int64') #set month as type int
-col1, col2, col3 = st.columns([1, 2, 1])
-with col2:
-    st.markdown('# :material/local_cafe: Coffee Sales Dashboard')
-    st.markdown("## :material/monitoring: *KPIs at a glance*")
-
-#Pivot table
 pivot_df = df.pivot_table(index=["product_category","month"],values="revenue",aggfunc="sum")
+pivot_df = pivot_df.reset_index()
+
+
+
+
+col1, col2, col3 = st.columns([1,2 , 1],vertical_alignment='center')
+with col2:
+    st.title(' :material/local_cafe: Coffee Sales Dashboard')
+
+    st.header(" :material/monitoring: *KPIs at a glance*")
+
+
+
+
 
 #-------------KPI Columns------------------- 
 
@@ -43,6 +50,7 @@ monthly_df = kpi_data.groupby('month').agg({
 }).reset_index()
 
 
+
 # Compare current month's metrics with the previous one.
 # Only compute KPIs if at least two months of data is available for comparison
 if len(monthly_df) >= 2:
@@ -52,23 +60,23 @@ if len(monthly_df) >= 2:
 
     with met1:
         st.metric(
-            label="Total Revenue MoM",
-            value=f"${current['revenue']:.2f}",
-            delta=f"${(current['revenue'] - previous['revenue']):.2f}",
+            label="Revenue MoM",
+            value= f"${current['revenue']:.2f}",
+            delta= round(current['revenue'] - previous['revenue'],2),
             border=True
         )
 
     with met2:
         st.metric(
-            label="Avg. Order Value MoM",
+            label="Avg Order Value MoM",
             value=f"${current['aov']:.2f}",
-            delta=f"${(current['aov'] - previous['aov']):.2f}",
-            border=True
+            delta= round(current['aov'] - previous['aov'],2),
+            border= True
         )
 
     with met3:
         st.metric(
-            label="Number of Orders MoM",
+            label="Order Volume MoM",
             value=int(current['orders']),
             delta=int(current['orders'] - previous['orders']),
             border=True
@@ -78,26 +86,33 @@ else:
 
 
 
-pivot_df = pivot_df.reset_index()
-
 
 
 #-----------OVERALL TRENDS-------------
-col1,col2,col3 = st.columns([1,2,1])
+col1,col2,col3 = st.columns([1,2,1],vertical_alignment='center')
 with col2:
-    st.markdown('# :material/line_axis: Overall Trends')
+    st.header(' :material/line_axis: Overall Trends')
 col1,col2 = st.columns(2)
 
 tab1,tab2 = st.tabs(["Monthly Revenue","Share of Revenue"])
 with tab1:
-	st.markdown("#### :material/bar_chart_4_bars: *Revenue by product category*")
-	rev_bar = px.bar(pivot_df,x='month',y='revenue',color='product_category',hover_data={'revenue': ":.2f"},height=500,width=800)
-	st.plotly_chart(rev_bar)
-rev_bar.update_layout(xaxis_title_font=dict(size=18),yaxis_title_font=dict(size=18),legend=dict(font=dict(size=16)),font=dict(size=16),xaxis=dict(tickfont=dict(size=18)),yaxis=dict(tickfont=dict(size=18)))
+    st.subheader(":material/bar_chart_4_bars: *Revenue by product category*")
+    all_prods = pivot_df['product_category'].unique()
+    product_filter = st.multiselect("Filter by Product Type:",all_prods,default=all_prods[0])
+    pivot_df_filter = pivot_df.copy()
+    if product_filter:
+        pivot_df_filter = pivot_df_filter[pivot_df_filter['product_category'].isin(product_filter)]
+
+    pivot_df_agg = pivot_df_filter.groupby(['month','product_category'],as_index=False).agg({'revenue':'sum'})
+    
+   
+    rev_bar = px.bar(pivot_df_agg,x='month',y='revenue',color='product_category',hover_data={'revenue': ":.2f"},height=700,width=950)
+    st.plotly_chart(rev_bar)
+    rev_bar.update_layout(xaxis_title_font=dict(size=18),yaxis_title_font=dict(size=18),legend=dict(font=dict(size=16)),font=dict(size=16),xaxis=dict(tickfont=dict(size=18)),yaxis=dict(tickfont=dict(size=18)))
 
 with tab2:
     rev_df = pd.read_csv('data/revenue_by_cat.csv')
-    st.markdown('#### :material/donut_large: *Share of total revenue by category*')
+    st.subheader(':material/donut_large: *Share of total revenue by category*')
     pie = px.pie(rev_df,values="revenue",names="product_category",height=600,width=600)
     pie.update_traces(textfont_size=16)
     pie.update_layout(legend=dict(font=dict(size=16)))
@@ -110,9 +125,9 @@ aov_df = pd.read_csv('data/daily_aov.csv')
 
 aov_df['order_date'] = pd.to_datetime(aov_df['order_date'])
 
-col1,col2,col3 = st.columns([1,2,1])
+col1,col2,col3 = st.columns([1,2,1],vertical_alignment='center')
 with col2:
-    st.markdown("## :material/paid: **AOV over Time** ")
+    st.header(":material/paid: **AOV over Time** ")
 min_date = aov_df['order_date'].min().date()
 max_date = aov_df['order_date'].max().date()
 #--------SIDEBAR TABS---------------------------
@@ -158,14 +173,14 @@ with tab2:
     if val_select:
         df_filter = df_filter[df_filter[get_col].isin(val_select)]
 
-    chosen_val = list(val_select)
+    
     df_filter_agg = df_filter.groupby(['time_interval',get_col],as_index=False).agg({'revenue':'sum'},color=get_col)
 
 
 
-col1,col2,col3 = st.columns([1,2,1])
+col1,col2,col3 = st.columns([1,2,1],vertical_alignment='center')
 with col2:
-    st.markdown("## :material/stacked_line_chart: Revenue comparison")
+    st.header(" :material/stacked_line_chart: Revenue comparison")
 
 plot_line = px.line(df_filter_agg,x='time_interval',y='revenue',labels={'time_interval': 'Time','revenue':'Revenue/$'},color=get_col)
 plot_line.update_layout(xaxis_title_font=dict(size=16),yaxis_title_font=dict(size=16),legend=dict(font=dict(size=12)),font=dict(size=14))
