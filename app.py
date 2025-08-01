@@ -157,9 +157,9 @@ all_df['date'] = pd.to_datetime(all_df['date'])
 
 with tab2:
     time_intervals = {
-        "Day" : lambda x:x.dt.date,
-        "Week" : lambda x:x.dt.to_period("W").apply(lambda y:y.start_time.date()),
-        "Month" : lambda x:x.dt.to_period("M").apply(lambda y:y.start_time.date())}
+        "Daily" : lambda x:x.dt.date,
+        "Weekly" : lambda x:x.dt.to_period("W").apply(lambda y:y.start_time.date()),
+        "Monthly" : lambda x:x.dt.to_period("M").apply(lambda y:y.start_time.date())}
 
     filter_options = ['Product Category','Product Type']
     filter1 = st.segmented_control("Filter By:",options=filter_options,selection_mode='single',default=filter_options[0])
