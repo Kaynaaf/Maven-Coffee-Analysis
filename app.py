@@ -138,7 +138,7 @@ tab1,tab2 = st.sidebar.tabs(['AOV','Revenue Comparison'])
 with tab1:
 
     start_date = st.date_input("Select Start date:",value=min_date,min_value=min_date,max_value=None)
-    end_date = st.date_input("Select Start date:",value=max_date,min_value=None,max_value=max_date)
+    end_date = st.date_input("Select End date:",value=max_date,min_value=None,max_value=max_date)
 aov_df_fl = aov_df[
     (aov_df['order_date'].dt.date >= start_date) &
     (aov_df['order_date'].dt.date <= end_date)]
