@@ -1,6 +1,6 @@
 .github/workflows/auto-commit.yml
 
-name: Auto Commit
+name: auto-commit
 
 on:
   schedule:
