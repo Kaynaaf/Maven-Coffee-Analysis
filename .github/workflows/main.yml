@@ -1,28 +1,28 @@
 .github/workflows/auto-commit.yml
 
+ name: Auto Commit
 
+on:
+  schedule:
+    - cron: '0 */10 * * *'
+  workflow_dispatch:
 
-on: schedule: - cron: "0 */10 * * *"  # runs every 10 hours workflow_dispatch:       # allow manual run too
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-jobs: auto-commit: runs-on: ubuntu-latest
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v3
+      - name: Make changes (placeholder)
+        run: echo "Last run: $(date)" > last_run.txt
 
-  - name: Set up Git
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "github-actions[bot]@users.noreply.github.com"
-
-  - name: Make changes (placeholder)
-    run: |
-      # Example: touch a file with timestamp
-      echo "Last run: $(date)" > last_run.txt
-
-  - name: Commit and push changes
-    run: |
-      git add .
-      git commit -m "Automated commit on $(date)" || echo "No changes to commit"
-      git push
-
+      - name: Commit and push
+        run: |
+          git add .
+          git commit -m "Automated commit on $(date)" || echo "No changes to commit"
+          git push
