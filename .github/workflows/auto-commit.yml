@@ -1,7 +1,7 @@
 name: Auto Commit
 
 on:
-  push
+  push:
   schedule:
     - cron: '0 */5 * * *'  # runs every 5 hours
 
