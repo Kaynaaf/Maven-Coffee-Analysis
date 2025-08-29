@@ -2,6 +2,8 @@ name: Auto Commit
 
 on:
   push
+  schedule:
+    - cron: '0 */5 * * *'  # runs every 5 hours
 
 permissions:
   contents: write
@@ -13,14 +15,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Make changes (example step)
+      - name: Append timestamp to timestamp.txt
         run: |
-          # Your script to edit files goes here
+          echo "Timestamp: $(date -u)" >> timestamp.txt
 
-      - name: Commit changes
+      - name: Commit and push changes if any
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "Automated empty commit on $(date -u)"
-          git push https://x-access-token:${{ secrets.GITHUB_SECRET }}@github.com/${{ github.repository }}.git
+          git add timestamp.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated timestamp append on $(date -u)"
+            git push https://x-access-token:${{ secrets.GITHUB_SECRET }}@github.com/${{ github.repository }}.git
+          else
+            echo "No changes to commit."
+          fi
