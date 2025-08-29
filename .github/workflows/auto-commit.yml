@@ -1,9 +1,9 @@
-#.github/workflows/auto-commit.yml
-name: auto-commit
+# .github/workflows/auto-commit.yml
+name: Auto Commit
 
 on:
   schedule:
-    - cron: '0 */10 * * *'
+    - cron: '0 */5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,16 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Git
+      - name: Create empty commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Make changes (placeholder)
-        run: echo "Last run: $(date)" > last_run.txt
-
-      - name: Commit and push
-        run: |
-          git add .
-          git commit -m "Automated commit on $(date)" || echo "No changes to commit"
+          git commit --allow-empty -m "Automated empty commit on $(date)"
           git push
