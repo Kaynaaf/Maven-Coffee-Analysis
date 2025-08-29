@@ -1,6 +1,6 @@
 .github/workflows/auto-commit.yml
 
-name: Auto-Commit
+
 
 on: schedule: - cron: "0 */10 * * *"  # runs every 10 hours workflow_dispatch:       # allow manual run too
 
