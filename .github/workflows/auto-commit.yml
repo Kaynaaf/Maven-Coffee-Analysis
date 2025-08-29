@@ -1,5 +1,4 @@
-.github/workflows/auto-commit.yml
-
+#.github/workflows/auto-commit.yml
 name: auto-commit
 
 on:
